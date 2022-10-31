@@ -1,0 +1,12 @@
+site_name: LinkedIn
+
+theme: 
+  name: material
+  favicon: assets/linkedin-logo.png
+  logo: assets/linkedin-logo.png
+  language: 'pt'
+  palette:
+    primary: 'indigo'
+
+nav:
+  - Página Inicial: index.md
