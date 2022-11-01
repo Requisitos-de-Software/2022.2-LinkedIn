@@ -4,7 +4,7 @@
 
 <center>
 
-   ![Logo do LinkedIn](path)
+   ![Logo do LinkedIn](docs/assets/linkedin.png)
 </center>
 
 ##  Sobre o projeto
