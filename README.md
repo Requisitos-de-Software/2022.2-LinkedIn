@@ -48,5 +48,13 @@ O projeto tem como objetivo a realização de avaliação do [LinkedIn](https://
           <b>Mateus Franco</b>
         </sub>
       </a>
+      <td align="center">
+      <a href="#">
+        <img src= "https://avatars.githubusercontent.com/u/88190414?v=4"  width="100px;" alt="Foto Guilherme Barbosa"/><br>
+        <sub>
+          <b>Guilherme Barbosa</b>
+        </sub>
+      </a>
+    </td>
 
 <br/>
