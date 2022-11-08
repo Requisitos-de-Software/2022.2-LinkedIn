@@ -10,3 +10,8 @@ theme:
 
 nav:
   - Página Inicial: index.md
+  - Planejamento do Projeto:
+    - Cronograma de Atividades: cronograma.md
+    - Análise dos aplicativos:  analise-app.md
+    - Metodologia e Processos:  metodologias.md
+    - Ferramentas utilizadas:   ferramentas.md
