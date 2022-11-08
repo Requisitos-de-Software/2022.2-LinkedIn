@@ -1,4 +1,4 @@
-# Página Inicial
+# Página Inicial - Grupo 4
 
 <div align="center">
 <img src = "./assets/linkedin-logo.png" width="300"/>
