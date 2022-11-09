@@ -1,4 +1,4 @@
-# Plano de Metodologia e Processos
+# Plano de Metodologias
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
