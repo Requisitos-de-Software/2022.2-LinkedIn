@@ -5,6 +5,8 @@
 | --- | --- | --- | --- | --- |
 | 0.1 | 08/11/2022 | Criação do Artefato | Mateus Franco | Guilherme Barbosa |
 | 0.2 | 08/11/2022 | Desenvolvimento do Artefato | Mateus Franco | Guilherme Barbosa |
+| 0.3 | 10/11/2022 | Desenvolvimento do Artefato | Breno Henrique | Mateus |
+
 
 ## 1. Introdução 
 A partir do plano de ensino disponibilizado no início do semestre, foi formado um cronograma com as principais atividades que a equipe deverá realizar. 
@@ -25,3 +27,18 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | Etapa 6 | Pós-Rastreabilidade | - Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 17/01 - 23/01
 
 <h6 align = "center"> Tabela 1: Planejamento do cronograma de atividades gerais </h6>
+
+## 3. Cronograma Por Etapa
+
+### 3.1 Etapa 1 - Planejamento do Projeto
+
+| Atividade(s) | Responsável | Revisor | Prazo para realização |
+| --- | --- | --- | --- |
+| Selecionar app para o projeto | Todos | Mateus | 04/11 - 10/11 |
+| Rich Picture | Pedro e Guilherme | Mateus | 04/11 - 10/11 |
+| Cronograma Detalhado | Breno | Guilherme | 04/11 - 10/11 |
+| Definição de Ferramentas | Samuel | Guilherme | 04/11 - 10/11 |
+| Definição de Metodologias |  | Guilherme | 04/11 - 10/11 |
+| Gravação da Apresentação | Todos | Todos | 13/11 |
+
+<h6 align = "center"> Tabela 2: Cronograma do Planejamento do Projeto </h6>
