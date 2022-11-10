@@ -55,6 +55,13 @@ O projeto tem como objetivo a realização de avaliação do [LinkedIn](https://
           <b>Guilherme Barbosa</b>
         </sub>
       </a>
-    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/78734372?v=4" width="100px;" alt="Foto Pedro Moraes"/><br>
+        <sub>
+          <b>Pedro Moraes</b>
+        </sub>
+      </a>
+    
 
 <br/>
