@@ -4,7 +4,7 @@
 | ------ | ---------- | :-------------: | :----------------------------: |
 | 1.0    | 11/11/2022 | Criação do Primeiro Rich Picture | Guilherme Barbosa |
 | 1.1.0    | 13/11/2022 | Segunda Versão do Rich Picure | Pedro Henrique e Guilherme Barbosa|
-| 1.1.1 | 14/11/2022 | Adição da legenda do Rich Picture | Guilherme Barbosa
+| 1.1.1 | 14/11/2022 | Adição da legenda do Rich Picture e das referências | Guilherme Barbosa
 
 *Tabela 1: Versionamento*
 
@@ -41,3 +41,10 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 | <h3><b>Limites do Sistema</h3></b><br>![Limites do Sistema](../assets/richPictures/LimitesDoSistema.png){ width=100 } | Identifica aquelas operações que fazem parte do sistema, ou seja, tudo que está dentro do limite designado, o sistema é o responsável por realizar.
 
 *Tabela 2: Legenda do Rich Picture*
+
+## Referências
+
+“Introducing Rich Pictures” do CTEC2402 - Software Development
+Project
+
+Apresentação da aula de Requisitos - Pré-rastreabilidade - Rich Picture Aula 04.pdfArquivo. Link: <https://aprender3.unb.br/pluginfile.php/2307459/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>
