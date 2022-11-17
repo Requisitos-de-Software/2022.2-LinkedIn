@@ -3,7 +3,7 @@
 | Versão | Data       |   Modificação   |             Autor              |
 | ------ | ---------- | :-------------: | :----------------------------: |
 | 1.0    | 11/11/2022 | Criação do Primeiro Rich Picture | Guilherme Barbosa |
-| 1.1.0    | 13/11/2022 | Segunda Versão do Rich Picure | Pedro Henrique |
+| 1.1.0    | 13/11/2022 | Segunda Versão do Rich Picure | Pedro Henrique e Guilherme Barbosa|
 
 *Tabela 1: Versionamento*
 
@@ -27,6 +27,6 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 
 ## Rich Picture 2
 
-![RichPicturePedro](../assets/richPictures/RichPicture2.jpg)
+![RichPicturePedro](../assets/richPictures/RichPicture2.png)
 
-*Figura 2: Rich Picture 2. Autor: Pedro Henrique, Versão 1.1*
+*Figura 2: Rich Picture 2. Autores: Pedro Henrique e Guilherme Barbosa, Versão 1.1*
