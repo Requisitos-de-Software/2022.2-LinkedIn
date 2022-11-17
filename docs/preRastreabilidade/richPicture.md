@@ -18,3 +18,9 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 * Identificar os dados que estarão presentes na aplicação, caracterizados por serem tabelas dentro do banco de dados;
 * Utilizar as ligações através de setas;
 * Desenhar os limites do sistema, ou seja, até onde o sistema é responsável por realizar as operações.
+
+## Rich Picture 1
+
+![RichPictureGuilherme](../assets/richPictures/RichPicture1.jpg)
+
+*Figura 1: Rich Picture. Autor: Guilherme Barbosa, Versão 1.0*
