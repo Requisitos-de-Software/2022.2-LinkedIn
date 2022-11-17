@@ -24,3 +24,9 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 ![RichPictureGuilherme](../assets/richPictures/RichPicture1.jpg)
 
 *Figura 1: Rich Picture. Autor: Guilherme Barbosa, Versão 1.0*
+
+## Rich Picture 2
+
+![RichPicturePedro](../assets/richPictures/RichPicture2.jpg)
+
+*Figura 2: Rich Picture 2. Autor: Pedro Henrique, Versão 1.1*
