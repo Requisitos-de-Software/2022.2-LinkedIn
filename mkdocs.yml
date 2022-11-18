@@ -4,9 +4,15 @@ theme:
   name: material
   favicon: assets/linkedin-logo.png
   logo: assets/linkedin-logo.png
+  features:
+      - navigation.tabs
   language: 'pt'
   palette:
     primary: 'indigo'
 
 nav:
   - Página Inicial: index.md
+  - Pré-Rastreabilidade:
+    - Rich Picture: ./preRastreabilidade/richPicture.md
+markdown_extensions:
+- attr_list
