@@ -12,6 +12,11 @@ theme:
 
 nav:
   - Página Inicial: index.md
+  - Planejamento do Projeto:
+    - Cronograma de Atividades: ./planejamento/cronograma.md
+    - Análise dos aplicativos:  ./planejamento/analise-app.md
+    - Plano de Metodologias:    ./planejamento/metodologias.md
+    - Ferramentas utilizadas:   ./planejamento/ferramentas.md
   - Pré-Rastreabilidade:
     - Rich Picture: ./preRastreabilidade/richPicture.md
 markdown_extensions:
