@@ -5,6 +5,7 @@
 | --- | --- | --- | --- | --- |
 | 0.1 | 08/11/2022 | Criação do Artefato | Mateus Franco | Guilherme Barbosa |
 | 0.2 | 08/11/2022 | Desenvolvimento do Artefato | Mateus Franco | Guilherme Barbosa |
+| 0.3 | 18/11/2022 | Ajustes em Políticas e Regras | Letícia Aires | Guilherme Barbosa |
 
 ## 1. Introdução
 
@@ -40,19 +41,13 @@ Co-authored-by: user <email>
 
 #### Tipos:
 
-* 🚀 quando adicionar código do front-end `:rocket:`
-* 💾 quando adicionar código do back-end `:floppy_disk:`
 * 🔁 quando alguma alteração for feita `:repeat:`
 * 🆒 quando melhorias de formato/estrutura do código `:cool:`
-* 🐎 quando melhorar o desempenho `:racehorse:`
-* ❌ quando resolver memory leaks `:x:`
 * 📝 quando escrever documentação `:pencil:`
 * 🐛 quando consertar um problema `:bug:`
 * 🆕 quando adicionar algum arquivo `:new:`
 * 🔥 quando remover código ou arquivos `:fire:`
 * 💚 quando consertar problemas de Integração Contínua `:green_heart:`
-* ✅ quando adicionar testes `:white_check_mark:`
-* 🔒 quando lidar com segurança `:lock:`
 * ⬆️ quando realizar o upgrade de dependências `:arrow_up:`
 * ⬇️ quando realizar downgrade de dependências `:arrow_down:`
 
