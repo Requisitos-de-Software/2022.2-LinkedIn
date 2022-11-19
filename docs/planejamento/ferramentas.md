@@ -20,6 +20,8 @@ A Tabela 1 abaixo, localizada no tópico 2, indica todas as ferramentas utilizad
 |<img src="https://user-images.githubusercontent.com/54439337/178488789-69ddaafc-2d25-4d76-b780-3a90bda82ee6.png" height= 60 width=60> | MkDocs| Site para a documentação do projeto. |
 |<img src="https://user-images.githubusercontent.com/72279998/182247936-cec95cfa-0619-41f7-808f-21859692cc48.png" height= 60 width=60> | OBS Studio | Software para gravação de vídeos. |
 |<img src="https://user-images.githubusercontent.com/72279998/182248688-2afa7006-cf91-4afc-9836-faa29b105dd6.png" height= 60 width=60> | Clipchamp | Software para edição de vídeos. |
-|<img src="https://user-images.githubusercontent.com/72279998/188236391-72273e65-1e86-4d9b-9395-cf1165f57aeb.png" height= 90 width=90> | YouTube | Ferramenta para postagem de vídeos. |
+|<img src="https://user-images.githubusercontent.com/72279998/188236391-72273e65-1e86-4d9b-9395-cf1165f57aeb.png" height= 65 width=65> | YouTube | Ferramenta para postagem de vídeos. |
+|<img src="https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/raw/development/docs/assets/figma-logo.png" height= 45 width=45> | Figma | Ferramenta para prototipagem. |
+|<img src="https://user-images.githubusercontent.com/71900095/202864771-aebc8dc7-65ba-4625-868f-24a7124d2f37.png" height= 90 width=90> | LucidChart | Ferramenta para criação de esquemas. |
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
 
