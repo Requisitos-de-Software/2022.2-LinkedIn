@@ -22,7 +22,7 @@ Breno Henrique | Ifood | [RichPictureBrenoHenrique.pdf](https://github.com/Requi
 Samuel Castro | Google Maps | [RichPictureSamuelCastro.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/9981616/RichPictureSamuelCastro.pdf)
 Letícia Aires | Whatsapp |[RichPictureLeticiaAires.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/9981357/RichPictureLeticiaAires.pdf)
 Guilherme Barbosa | Carteira Digital de Trânsito | [RichPictureGuilhermeBarbosa.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/9981354/RichPictureGuilhermeBarbosa.pdf)
-Pedro Moraes | - | -
+Pedro Moraes |  AliExpress | [RichPicturePedroHenrique.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/10049895/RichPicturePedroHenrique.pdf)
 
 ## Aplicativo LinkedIn
 
