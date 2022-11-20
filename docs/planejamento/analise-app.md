@@ -24,7 +24,6 @@ Letícia Aires | Whatsapp |[RichPictureLeticiaAires.pdf](https://github.com/Requ
 Guilherme Barbosa | Carteira Digital de Trânsito | [RichPictureGuilhermeBarbosa.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/9981354/RichPictureGuilhermeBarbosa.pdf)
 Pedro Moraes | AliExpress | [RichPicturePedroHenrique.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/10049895/RichPicturePedroHenrique.pdf)
 
-
 ## Aplicativo LinkedIn
 
 Optou-se pelo aplicativo LinkedIn como objeto de estudos do projeto, já que este apresenta inúmeros conteúdos, funcionalidades e links os quais possibilitam a interação entre candidatos e recrutadores. Segue, na imagem 1, a página do aplicativo na Play Store.
