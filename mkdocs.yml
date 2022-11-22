@@ -19,5 +19,6 @@ nav:
     - Ferramentas utilizadas:   ./planejamento/ferramentas.md
   - Pré-Rastreabilidade:
     - Rich Picture: ./preRastreabilidade/richPicture.md
+  - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
 - attr_list
