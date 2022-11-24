@@ -4,7 +4,8 @@
 :---: | :---: | :---: | :---: | :---: |
  11/11/2022 | 1.0 | Criação do Primeiro Rich Picture | Guilherme Barbosa | Mateus Franco |
  13/11/2022 | 2.0 | Segunda Versão do Rich Picure | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
- 14/11/2022 | 3.0 | Adição da legenda do Rich Picture e das referências | Guilherme Barbosa | Mateus Franco |
+ 14/11/2022 | 3.0 | Adição da legenda do Rich Picture e das referências | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
+ 23/11/2022 | 4.0 | Terceira Versão do Rich Picture | Guilherme Barbosa | Mateus Franco
 
 ## 1. Introdução
 
@@ -36,9 +37,16 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 <br> Autores: Pedro Henrique e Guilherme Barbosa 
 <br> Fonte: Autores </h6>
 
+## 5. Rich Picture - Terceira versão
+
+![RichPicture3](../assets/richPictures/RichPicture3.png)
+<h6 align = "center"> Figura 3: Rich Picture - Versão 2.0
+<br> Autores: Pedro Henrique e Guilherme Barbosa 
+<br> Fonte: Autores </h6>
+
 | Componentes | Comentários |
 | ----------- | ----------- |
-| <h3><b>Atores</h3></b><br>![Ator Usuário](../assets/richPictures/UsuarioAtor.png){ width=100 } ![Ator Usuários](../assets/richPictures/UsuariosAtor.png){ width=100 } ![Ator Empresas](../assets/richPictures/EmpresasAtor.png){ width=100 }| São os usuários do sistema. Normalmente os atores podem realizar qualquer quantidade de operações. |
+| <h3><b>Atores</h3></b><br>![Ator Usuário](../assets/richPictures/UsuarioAtor.png){ width=100 } ![Ator Empresas](../assets/richPictures/EmpresasAtor.png){ width=100 }| São os usuários do sistema. Normalmente os atores podem realizar qualquer quantidade de operações. |
 | <h3><b>Operações</h3></b><br>![Operações](../assets/richPictures/Operacao.png){ width=100 } | Uma operação especifica o que o sistema faz. Um ator ou uma outra operação podem executar uma operação. Estão representadas como um círculo ou um oval com uma descrição. |
 | <h3><b>Armazenamento de dados</b></h3><br>![Armazenamento de dados](../assets/richPictures/Dados.png){ width=100 } | Os armazenamentos de dados representam as tabelas presentes no banco de dados. Estão representadas dentro de um retângulo e com o tipo de dados que contêm.
 | <h3><b>Setas</h3></b><br>![Setas](../assets/richPictures/Seta.png){ width=100 } | Mostram a direção do fluxo de dados entre os atores, armazenamento de dados e as operações. |
