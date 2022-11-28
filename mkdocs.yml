@@ -19,6 +19,8 @@ nav:
     - Ferramentas utilizadas:   ./planejamento/ferramentas.md
   - Pré-Rastreabilidade:
     - Rich Picture: ./preRastreabilidade/richPicture.md
+  - Elicitação:
+    - Personas: ./elicitacao/personas.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
