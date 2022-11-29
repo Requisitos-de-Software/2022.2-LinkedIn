@@ -4,7 +4,8 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 :---: | :---: | :---: | :---: | :---: |
-28/11/2022 | 0.1 | Criação do documento e adição da entrevista | Guilherme Barbosa | Mateus Franco |
+28/11/2022 | 0.1 | Criação do documento e adição da entrevista | Guilherme Barbosa | Pedro Moraes |
+29/11/2022 | 0.2 | Adição dos requisitos elicitados e referências | Guilherme Barbosa | Pedro Moraes |
 
 ## 1. Introdução
 A técnica de entrevistas é uma ferramenta poderosa utilizada para encontrar os requisitos do sistema. Portanto, foram elaboradas entrevistas fechadas afim de auxiliar na elicitação dos requisitos.
@@ -22,7 +23,7 @@ Guilherme Barbosa | João Pedro José | 3 minutos | 28/11/2022 |
 <br> Autor: Guilherme Barbosa 
 <br> Fonte: Autor </h6>
 
-## 2.1. Dados do Entrevistado
+## 2.1. Dados do entrevistado
 
 Nome | Idade | Gênero | Ocupações | Cidade/Estado
 :-----------: | :----------: | :-----: | :----: |
@@ -58,3 +59,27 @@ Pergunta | Resposta
 <h6 align = "center"> Tabela 3: Perguntas e respostas - Versão 1.0
 <br> Autor: Guilherme Barbosa 
 <br> Fonte: Autor </h6>
+
+## 3. Requisitos elicitados
+
+ID | Descrição | Tipo
+:-: | :---- | :-:
+ENT01 | Deve ser possível ver a listagem de postagens de usuários ou empresas | RF01
+ENT02 | Deve ser possível comentar as postagens | RF02
+ENT03 | Deve ser possível reagir as postagens | RF03
+ENT04 | Deve ser possível compartilhar as postagens | RF04
+ENT05 | Deve ser possível visualizar as informações das vagas em aberto | RF05
+ENT06 | Deve ser possível filtrar as vagas | RF06
+ENT07 | Deve ser possível se aplicar as vagas | RF07
+ENT08 | Deve ser possível pesquisar qualquer empresa cadastrada no sistema | RF08
+ENT09 | Deve ser possível avaliar a empresa enquanto funcionário ou ex-funcionário | RF09
+ENT010 | Deve ser possível deixar comentários sobre a empresa enquanto funcionário ou ex-funcionário | RF10
+
+<h6 align = "center"> Tabela 4: Elicitação dos requisitos - Versão 1.0
+<br> Autor: Guilherme Barbosa 
+<br> Fonte: Autor </h6>
+
+## 4. Referências
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Brasília: Unb-Gama, 20--. Color. Disponível em: https://aprender3.unb.br/pluginfile.php/2307479/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 27 nov. 2022.
+
+> 2022.1-Tiktok. Disponível em: https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/elicita%C3%A7%C3%A3o/entrevista.md. Acesso em: 27 nov. 2022.
