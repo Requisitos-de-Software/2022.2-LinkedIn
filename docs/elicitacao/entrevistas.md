@@ -62,6 +62,10 @@ Pergunta | Resposta
 
 ## 3. Requisitos elicitados
 
+### Legenda
+- ENT: Entrevista
+- RF: Requisito Funcional
+
 ID | Descrição | Tipo
 :-: | :---- | :-:
 ENT01 | Deve ser possível ver a listagem de postagens de usuários ou empresas | RF01
