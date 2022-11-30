@@ -4,8 +4,6 @@ theme:
   name: material
   favicon: assets/linkedin-logo.png
   logo: assets/linkedin-logo.png
-  features:
-      - navigation.tabs
   language: 'pt'
   palette:
     primary: 'indigo'
@@ -20,9 +18,10 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
-    - Entrevistas: ./elicitacao/entrevistas.md
     - Personas: ./elicitacao/personas.md
-    - Observação: ./elicitacao/observacao.md
+    - Técnicas:
+      - Observação: ./elicitacao/observacao.md
+      - Entrevistas: ./elicitacao/entrevistas.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:

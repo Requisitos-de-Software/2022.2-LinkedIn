@@ -2,9 +2,9 @@
 
 ## Histórico de Versões
 
-**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
-:---: | :---: | :---: | :---: | :---: |
-27/11/2022 | 0.1 | Criação do documento | Samuel Macedo | Pedro Caldeira |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|---|---|---|---|---|
+| 0.1 | 27/11/2022 | Criação do documento | Samuel Macedo | Pedro Caldeira |
 
 
 ## 1. Introdução

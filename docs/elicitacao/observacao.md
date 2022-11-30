@@ -1,14 +1,14 @@
 # Observação
 
- ## Histórico de Versão
+## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-------|-----------| ------- |
-| 0.1 | 30/11/22 | Criação e desenvolvimento do artefato | Breno Henrique | Mateus Franco |
-| 0.2 | 30/11/22 | Ajustes e revisão do artefato | Mateus Franco | Breno Henrique |
+|---|---|---|---|---|
+| 0.1 | 30/11/2022 | Criação e desenvolvimento do artefato | Breno Henrique | Mateus Franco |
+| 0.2 | 30/11/2022 | Ajustes e revisão do artefato | Mateus Franco | Breno Henrique |
 
 
-## 1. Definição
+## 1. Introdução
 
 A observação é uma técnica que visa observar no próprio ambiente no qual o software será implementado, de forma que as tarefas sejam observadas sem que interfiram no ambiente. 
 
@@ -16,7 +16,7 @@ O intuito dessa técnica é que por meio da observação sejam elicitados requis
 
 ## 2. Metodologia
 
-Para a realização da ténica de elicitação de requisitos por meio da observação, foi feita uma reunião com os integrantes do grupo via **Discord**, a fim de apresentar o aplicativo em funcionamento para observar e verificar as funcionalidades que podem ser utilizadas pelo usuário no aplicativo do **LinkedIn**.
+Para a realização da técnica de elicitação de requisitos por meio da observação, foi feita uma reunião com os integrantes do grupo, realizada de forma presencial, a fim de apresentar o aplicativo em funcionamento para observar e verificar as funcionalidades que podem ser utilizadas pelo usuário no aplicativo do **LinkedIn**.
 
 Foi considerado como documentação disponível as avaliações da **Play Store**, onde os usuários que usaram o aplicativo avaliam seu funcionamento, avaliando ou criticando com o intuito de melhorar a aplicação.
 
