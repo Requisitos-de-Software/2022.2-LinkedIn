@@ -20,6 +20,7 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
+    - Brainstorm: ./elicitacao/brainstorm.md
     - Entrevistas: ./elicitacao/entrevistas.md
     - Personas: ./elicitacao/personas.md
     - Observação: ./elicitacao/observacao.md
