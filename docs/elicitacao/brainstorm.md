@@ -16,7 +16,7 @@ A técnica propõe que o grupo se reúna e utilize a diversidade de pensamentos 
 
 Para a realização da técnica de Brainstorm, foi realizado uma reunião com todos os integrantes do grupo, a fim de que cada um pudesse expor os principais requisitos, tanto funcionais, quanto não-funcionais acerca do aplicativo escolhido para ser trabalhado, o LinkedIn.
 
-A reunião foi realizada no dia 28/11/2022 às 19h através da ferramenta Discord. O grupo fez o levantamento dos requisitos que julgaram serem apropriados para o aplicativo, os quais estão apresentados nas tabelas 1 e 2 abaixo.
+A reunião foi realizada no dia 28/11/2022 às 12h de forma presencial. O grupo fez o levantamento dos requisitos que julgaram serem apropriados para o aplicativo, os quais estão apresentados nas tabelas 1 e 2 abaixo.
 
 Um dos integrantes atuou como facilitador durante a reunião, anotando as ideias e pensamentos dos outros integrantes e auxiliando no direcionamento da técnica.
 
