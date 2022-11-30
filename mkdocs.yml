@@ -21,6 +21,7 @@ nav:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
+    - Brainstorm: ./elicitacao/brainstorm.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
