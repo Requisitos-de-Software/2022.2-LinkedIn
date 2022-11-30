@@ -37,19 +37,19 @@ Os resultados da técnica de Brainstorm para o aplicativo LinkedIn estão aprese
 
 | ID | Requisitos Funcionais |
 | --- | --- |
-| RF01 | O usuário deve ser capaz de realizar a criação de um perfil |
-| RF02 | O usuário deve ser capaz de realizar alterações de informações em seu perfil |
-| RF03 | O usuário deve ser capaz de realizar publicações em seu perfil|
-| RF04 | O usuário deve ser capaz de realizar conexões com outros usuários|
-| RF05 | O usuário deve ser capaz de visualizar publicações de outros usuários|
-| RF06 | O usuário deve ser capaz de interagir com publicações de outros usuários|
-| RF07 | O usuário deve ser capaz de interagir com outros usuários por meio de mensagens diretas|
-| RF08 | O usuário deve ser capaz de visualizar perfis de outros usuários|
-| RF09 | O usuário deve ser capaz de visualizar vagas postadas |
-| RF10 | O usuário deve ser capaz de filtrar vagas que são mais interessantes para seu perfil |
-| RF11 | O usuário deve ser capaz de realizar pesquisas de perfis de outros usuários e empresas|
-| RF12 | O usuário deve ser capaz de receber notificações personalizadas de acordo com o que mais lhe interessa |
-| RF13 | O usuário deve ser capaz de ter acesso aos termos de uso e privacidade do aplicativo|
+| BS01 (RF01) | O usuário deve ser capaz de realizar a criação de um perfil |
+| BS02 (RF02) | O usuário deve ser capaz de realizar alterações de informações em seu perfil |
+| BS03 (RF03) | O usuário deve ser capaz de realizar publicações em seu perfil|
+| BS04 (RF04) | O usuário deve ser capaz de realizar conexões com outros usuários|
+| BS05 (RF05) | O usuário deve ser capaz de visualizar publicações de outros usuários|
+| BS06 (RF06) | O usuário deve ser capaz de interagir com publicações de outros usuários|
+| BS07 (RF07) | O usuário deve ser capaz de interagir com outros usuários por meio de mensagens diretas|
+| BS08 (RF08) | O usuário deve ser capaz de visualizar perfis de outros usuários|
+| BS09 (RF09) | O usuário deve ser capaz de visualizar vagas postadas |
+| BS10 (RF10) | O usuário deve ser capaz de filtrar vagas que são mais interessantes para seu perfil |
+| BS11 (RF11) | O usuário deve ser capaz de realizar pesquisas de perfis de outros usuários e empresas|
+| BS12 (RF12) | O usuário deve ser capaz de receber notificações personalizadas de acordo com o que mais lhe interessa |
+| BS13 (RF13) | O usuário deve ser capaz de ter acesso aos termos de uso e privacidade do aplicativo|
 
 <h6 align = "center"> Tabela 1: Requisitos Funcionais do aplicativo</h6>
 <h6 align = "center"> Fonte: Autores </h6>
@@ -57,10 +57,10 @@ Os resultados da técnica de Brainstorm para o aplicativo LinkedIn estão aprese
 ### 3.2 Requisitos Não-Funcionais
 | ID | Requisitos Não-Funcionais |
 | --- | --- |
-| RNF01 |O sistema deve ser disponível na maioria dos sistemas operacionais mobile disponíveis|
-| RNF02 |O sistema deve possuir responsividade| 
-| RNF03 |O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos | 
-| RNF04 |O sistema deve garantir a privacidade e segurança dos dados do usuário |
+| BS14 (RNF01) |O sistema deve ser disponível na maioria dos sistemas operacionais mobile disponíveis|
+| BS15 (RNF02) |O sistema deve possuir responsividade| 
+| BS16 (RNF03) |O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos | 
+| BS17 (RNF04) |O sistema deve garantir a privacidade e segurança dos dados do usuário |
 
 <h6 align = "center"> Tabela 2: Requisitos Não-Funcionais do aplicativo</h6>
 <h6 align = "center"> Fonte: Autores </h6>
