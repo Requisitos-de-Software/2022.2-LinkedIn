@@ -4,8 +4,7 @@
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 0.1 | 30/11/2022 | Descrição MoSCoW | Letícia Aires | Guilherme Barbosa |
-| 0.2 | 30/11/2022 | Descrição First Things First | Letícia Aires | Guilherme Barbosa |
-| 0.3 | 30/11/2022 | Tabela de Requisitos Funcionais e Não-Funcionais | Pedro Henrique | Letícia Aires |
+| 0.2 | 30/11/2022 | Tabela de Requisitos Funcionais e Não-Funcionais | Pedro Henrique | Letícia Aires |
 
 # 1. Priorização
 
@@ -85,7 +84,7 @@ Assim, o escopo do projeto pode ser reduzido para focar em determinadas funciona
 <h6 align = "center"> Tabela 1: Priorização de Requisitos Funcionais</h6>
 <h6 align = "center"> Fonte: Autores </h6>
 
-### 2.3.2. Requitios Não-Funcionais 
+### 2.3.2. Requisitos Não-Funcionais 
 
 | ID | Requisitos Não-Funcionais |
 | --- | --- |
@@ -96,34 +95,3 @@ Assim, o escopo do projeto pode ser reduzido para focar em determinadas funciona
 
 <h6 align = "center"> Tabela 2: Priorização de Requisitos Não-Funcionais</h6>
 <h6 align = "center"> Fonte: Autores </h6>
-
-
-# 3. First Things First
-
-## 3.1. Introdução
-
-O segundo método foi escolhido tendo em vista a ponderação feita entre benefícios, custos e riscos de cada requisito.
-A partir de tais observações, os requisitos são rankeados conforme prioridade no que tange aos usuários.
-
-## 3.2. Metodologia
-
-A fim de priorizar os requisitos conforme as necessidades tanto dos usuários, quanto dos desenvolvedores, deve-se:
-
-1. Elicitar todos os requisitos.
-2. Quantizar benefício de cada requisito.
-3. Quantizar malefício resultante da ausência do requisito.
-4. Quantizar custo do desenvolvimento do requisito.
-5. Quantizar risco de desenvolvimento do projeto como um todo.
-6. Valor total: (Benefício relativo * Peso Relativo + Penalidade Relativa * Peso Relativo)
-7. Prioridade: Valor / (Custo * Peso de Custo + Risco * Peso de Risco)
-8. Ordenação requisitos conforme prioridade.
-
-## 4. Bibliografia
-
-> rfc2119 -- Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels," RFC 2119, March 1997.
-
-> Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em https://www.voitto.com.br/blog/artigo/metodo-moscow
-
-> First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf
-
-
