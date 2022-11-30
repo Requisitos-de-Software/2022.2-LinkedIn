@@ -20,6 +20,7 @@ nav:
   - Elicitação:
     - Personas: ./elicitacao/personas.md
     - Técnicas:
+      - Brainstorm: ./elicitacao/brainstorm.md
       - Observação: ./elicitacao/observacao.md
       - Entrevistas: ./elicitacao/entrevistas.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
