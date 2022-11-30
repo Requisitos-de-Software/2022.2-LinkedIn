@@ -24,7 +24,7 @@ Kenzo começou a utilizar o aplicativo, ficou surpreso por logo no cadastro pode
 
 Após algum tempo utilizando o aplicativo Kenzo consegui ser contratado para um estagio, e continuou postando seus trabalhos para no futuro poder apresenta-los em outras entrevista que ele pode vir a ter.
 
-### 3.2. Um rede social de trabalho (José Carlos) 
+### 3.2. Uma rede social de trabalho (José Carlos) 
 
 José por ser uma pessoa que não tem um lugar fixo para trabalhar pois esta sempre viajando, procura sempre trabalhos freelancer para prestar a empresas de forma remota. Ele utiliza o linkeding para fazer esta busca por trabalho, onde ele procurar por empresas que oferecem a modalidade de trabalho remoto nas descrições de vagas, também  conversa por chat com as empresas para oferecer seus serviços e receber novas demandas de trabalho de interessados que viram seu perfil.
 
@@ -61,5 +61,5 @@ ST15 | Eu como usuário desejo receber vagas relacionadas a minha área de atua�
 
 ## 5. Referências 
 
-- Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software (https://sol.sbc.org.br/index.php/sbqs/article/view/15275)
+> * Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software (https://sol.sbc.org.br/index.php/sbqs/article/view/15275)
 
