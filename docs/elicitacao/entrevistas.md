@@ -34,14 +34,17 @@ João Pedro José | 23 | Não binário | Universitário e Estagiário | 28/11/20
 <br> Fonte: Autor </h6>
 
 ## 2.2 Perguntas
-1. Por qual motivo você usa o Linkedin?
-2. O aplicativo te ajudou a encontrar alguma oportunidade de emprego que se concretizou? Se sim, de que forma?
-3. Na sua opinião, ficou mais fácil achar novas oportunidades de emprego? Por que?
-4. Que funcionalidade no aplicativo você usa mais?
-5. Que funcionalidade no aplicativo você usa menos?
-6. Com que frequência você costuma comentar e/ou reagir aos posts de outros usuários?
-7. Você encontra alguma dificuldade em utilizar o aplicativo?
-8. Consegue pensar em alguma coisa que pode ser melhorada?
+
+| Número | Pergunta |
+| ------ | -------- |
+| 01 | Por qual motivo você usa o Linkedin? |
+| 02 | O aplicativo te ajudou a encontrar alguma oportunidade de emprego que se concretizou? Se sim, de que forma?
+| 03 | Na sua opinião, ficou mais fácil achar novas oportunidades de emprego? Por que?
+| 04 | Que funcionalidade no aplicativo você usa mais?
+| 05 | Que funcionalidade no aplicativo você usa menos?
+| 06 | Com que frequência você costuma comentar e/ou reagir aos posts de outros usuários?
+| 07 | Você encontra alguma dificuldade em utilizar o aplicativo?
+| 08 | Consegue pensar em alguma coisa que pode ser melhorada?
 
 ## 2.3 Respostas
 
