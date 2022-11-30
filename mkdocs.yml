@@ -20,8 +20,10 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
-    - Personas: ./elicitacao/personas.md
     - Brainstorm: ./elicitacao/brainstorm.md
+    - Entrevistas: ./elicitacao/entrevistas.md
+    - Personas: ./elicitacao/personas.md
+    - Observação: ./elicitacao/observacao.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
