@@ -7,8 +7,6 @@ theme:
   language: 'pt'
   palette:
     primary: 'indigo'
-  features:
-      - navigation.tabs
 nav:
   - Página Inicial: index.md
   - Planejamento do Projeto:
@@ -20,14 +18,15 @@ nav:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
-    - Brainstorm: ./elicitacao/brainstorm.md
-    - Observação: ./elicitacao/observacao.md
-    - Entrevistas: ./elicitacao/entrevistas.md
-    - Storytelling: ./elicitacao/storytelling.md
+    - Técnicas:
+      - Brainstorm: ./elicitacao/brainstorm.md
+      - Observação: ./elicitacao/observacao.md
+      - Entrevistas: ./elicitacao/entrevistas.md
+      - Introspecção: ./elicitacao/introspeccao.md
+      - Storytelling: ./elicitacao/storytelling.md
     - Priorização:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
-    - Introspecção: ./elicitacao/introspeccao.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
