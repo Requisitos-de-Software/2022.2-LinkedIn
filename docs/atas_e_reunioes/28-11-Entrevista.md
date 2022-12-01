@@ -1,13 +1,13 @@
-# Ata de Reunião do dia 02/02
+# Ata de Reunião do dia 28/11
 
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                         | Revisor                                      |
 | ---------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
-| 24.02.2022 | 1.0    | Criação do documento | Guilherme Barbosa | Letícia Aires |
+| 28/11/2022 | 1.0    | Criação do documento | Guilherme Barbosa | Letícia Aires |
 
 Reunião realizada presencialmente
 
-Data da reunião: 28 de Fevereiro de 2022
+Data da reunião: 28 de Novembro de 2022
 
 Redigida por: Guilherme Barbosa
 
@@ -18,7 +18,7 @@ Redigida por: Guilherme Barbosa
 
 ## Pauta da Reunião
 
-Reunião com o entrevistado afim de elicitar alguns requisitos através de perguntas.
+Reunião com o entrevistado, a fim de elicitar alguns requisitos através de perguntas.
 
 ## Reunião
 ### Primeiro momento
