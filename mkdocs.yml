@@ -20,6 +20,7 @@ nav:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
+    - Perfil de usuário: ./elicitacao/perfil_de_usuario.md
     - Técnicas:
       - Brainstorm: ./elicitacao/brainstorm.md
       - Observação: ./elicitacao/observacao.md
@@ -31,7 +32,7 @@ nav:
       - First Things First: ./elicitacao/first_things_first.md
   - Atas e Reuniões:
     - Novembro:
-      - Dia 28: ./atas_e_reunioes/28-11.md
+      - Dia 28 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md
       - Dia 28 - Entrevista: ./atas_e_reunioes/28-11-Entrevista.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
