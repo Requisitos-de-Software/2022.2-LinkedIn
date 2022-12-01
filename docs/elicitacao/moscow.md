@@ -95,3 +95,11 @@ Assim, o escopo do projeto pode ser reduzido para focar em determinadas funciona
 
 <h6 align = "center"> Tabela 2: Priorização de Requisitos Não-Funcionais</h6>
 <h6 align = "center"> Fonte: Autores </h6>
+
+## 3. Bibliografia
+
+> rfc2119 -- Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels," RFC 2119, March 1997.
+
+> Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em https://www.voitto.com.br/blog/artigo/metodo-moscow
+
+> First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf
