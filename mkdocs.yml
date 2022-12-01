@@ -27,6 +27,7 @@ nav:
     - Priorização:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
+    - Introspecção: ./elicitacao/introspeccao.md
   - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
