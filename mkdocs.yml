@@ -20,15 +20,19 @@ nav:
     - Rich Picture: ./preRastreabilidade/richPicture.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
-    - Brainstorm: ./elicitacao/brainstorm.md
-    - Observação: ./elicitacao/observacao.md
-    - Entrevistas: ./elicitacao/entrevistas.md
-    - Storytelling: ./elicitacao/storytelling.md
+    - Técnicas:
+      - Brainstorm: ./elicitacao/brainstorm.md
+      - Observação: ./elicitacao/observacao.md
+      - Entrevistas: ./elicitacao/entrevistas.md
+      - Introspecção: ./elicitacao/introspeccao.md
+      - Storytelling: ./elicitacao/storytelling.md
     - Priorização:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
-    - Introspecção: ./elicitacao/introspeccao.md
-  - Atas e Reuniões: ./atas_e_reunioes/atas_reunioes.md
+  - Atas e Reuniões:
+    - Novembro:
+      - Dia 28: ./atas_e_reunioes/28-11.md
+      - Dia 28 - Entrevista: ./atas_e_reunioes/28-11-Entrevista.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
 - attr_list
