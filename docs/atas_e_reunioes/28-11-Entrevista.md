@@ -13,12 +13,8 @@ Redigida por: Guilherme Barbosa
 
 ### Participantes:
 
-- Breno Henrique
+- João Pedro José
 - Guilherme Barbosa
-- Letícia Aires
-- Mateus Franco
-- Pedro Moraes
-- Samuel Castro
 
 ## Pauta da Reunião
 
