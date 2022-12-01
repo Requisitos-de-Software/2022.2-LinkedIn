@@ -7,7 +7,7 @@
 
 Reunião realizada presencialmente
 
-Data da reunião: 28 de Fevereiro de 2022
+Data da reunião: 28 de Novembro de 2022
 
 Redigida por: Guilherme Barbosa
 
@@ -18,7 +18,7 @@ Redigida por: Guilherme Barbosa
 
 ## Pauta da Reunião
 
-Reunião com o entrevistado afim de elicitar alguns requisitos através de perguntas.
+Reunião com o entrevistado, a fim de elicitar alguns requisitos através de perguntas.
 
 ## Reunião
 ### Primeiro momento
