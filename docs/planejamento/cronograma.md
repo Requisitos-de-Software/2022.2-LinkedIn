@@ -61,10 +61,14 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 
 | Atividade(s) | Responsável | Revisor | Prazo para realização |
 | --- | --- | --- | --- |
-| Cenário | Pedro Moraes | Breno Henrique | 01/12/2022 - 09/12/2022 |
-| Léxico | Mateus Franco e Guilherme Barbosa | Letícia Aires | 01/12/2022 - 09/12/2022 |
-| Use Case | Breno Henrique e Letícia Aires | Mateus Franco | 01/12/2022 - 09/12/2022 |
-| Especificação Suplementar | Samuel Castro | Guilherme Barbosa | 01/12/2022 - 09/12/2022 |
+| Cenário | Samuel Castro | Breno Henrique | 01/12/2022 - 09/12/2022 |
+| Léxico | Breno Henrique | Letícia Aires | 01/12/2022 - 09/12/2022 |
+| Use Case | Letícia Aires | Mateus Franco | 01/12/2022 - 09/12/2022 |
+| Especificação Suplementar | Guilherme Barbosa | Pedro Moraes | 01/12/2022 - 09/12/2022 |
+| NFR Framework | Guilherme Barbosa | Samuel Castro | 01/12/2022 - 09/12/2022 |
+| Ágil: Histórias de Usuário | Mateus Franco | Guilherme Barbosa | 01/12/2022 - 09/12/2022 |
+| Backlog do produto | Mateus Franco | Letícia Aires | 01/12/2022 - 09/12/2022 |
+| Revisão e Correção dos artefatos das etapas anteriores | Pedro Moraes | Mateus Franco | 01/12/2022 - 09/12/2022 |
 | Gravação da Apresentação | Todos | Todos | 11/12/2022 |
 | Entrega da Apresentação | Todos | Todos | 12/12/2022 |
 
