@@ -30,6 +30,8 @@ nav:
     - Priorização:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
+    - Modelagem:
+      - Léxicos: ./modelagem/lexicos.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md
