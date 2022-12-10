@@ -6,6 +6,7 @@
 |--------|------|-------|-----------| ------- |
 | 0.1 | 02/12/2022 | Criação do Documento | Letícia Aires | Mateus Franco |
 | 0.2 | 05/12/2022 | Adição de Conteúdo | Letícia Aires | Mateus Franco |
+| 0.3 | 10/12/2022 | Adição do diagrama UML | Mateus Franco | Letícia Aires |
 
 ## 1. Introdução
 
@@ -13,7 +14,7 @@ Os Casos de Uso consistem no detalhamento dos atores de um sistema e de sua inte
 
 ## 2. Metodologia
 
-Para a representação dos casos de uso do aplicativo LinkedIn, foi projetado um diagrama UML, por meio do software LucidChart, aonde foi representado os diversos cenários de uso na perspectiva dos usuários. 
+Para a representação dos casos de uso do aplicativo LinkedIn, foi projetado um diagrama UML, por meio do software Figma, aonde foi representado os diversos cenários de uso na perspectiva dos usuários. 
 
 Dessa forma, sistema e atores foram modelados com o objetivo de descrever atividades para atingir a meta de casos de uso.
 
@@ -39,7 +40,16 @@ Dessa forma, sistema e atores foram modelados com o objetivo de descrever ativid
 | Caixa de limite do sistema | Caixa que define um escopo do sistema para os casos de uso | Caixa |
 | Pacote | Forma UML onde se colocam diferentes elementos em grupos | Pastas de arquivos |
 
-## 5. Diagramas de Casos de Uso
+## 5. Diagrama de Casos de Uso UML
 
-## 6. Referência bibliográfica
+Abaixo, representado pela figura 01, segue a representação do diagrama de casos de uso geral do aplicativo LinkedIn.
+
+<center>
+![use-case-v2](https://user-images.githubusercontent.com/71900095/206858632-edbfbaab-a98e-465b-b392-052a1010b3dc.png)
+</center>
+
+<h6 align = "center"> Figura 01: Diagrama UML de casos de uso </h6>
+<h6 align = "center"> Fonte: Autores </h6>
+
+## 7. Referência bibliográfica
 > * Diagrama de caso de uso UML: o que é, como fazer e exemplos. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml
