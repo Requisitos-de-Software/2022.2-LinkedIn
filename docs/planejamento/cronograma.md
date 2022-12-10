@@ -8,6 +8,7 @@
 | 0.2 | 08/11/2022 | Desenvolvimento do Artefato | Mateus Franco | Guilherme Barbosa |
 | 0.3 | 10/11/2022 | Desenvolvimento do Artefato | Breno Henrique | Mateus Franco |
 | 0.4 | 17/11/2022 | Desenvolvimento do Artefato | Breno Henrique | Mateus Franco |
+| 0.5 | 04/11/2022 | Correção do documento | Pedro Henrique | Mateus Franco |
 
 ## 1. Introdução
 

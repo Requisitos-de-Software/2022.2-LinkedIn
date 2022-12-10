@@ -36,8 +36,7 @@ Basicamente José utiliza o aplicativo como um rede social so que de um jeito ma
 ### Legendas:
 - ST: Storytelling
 - RF: Requisito Funcional
-- RNF: Requisito Não Funcional  
-
+  
 **ID** | **Descrição** | **Tipo** | 
 :---: | :---: | :---: | 
 ST01 | Eu como usuário desejo criar uma conta para começar a utilizar o app | RF01 |
@@ -51,10 +50,10 @@ ST08 | Eu como usuário desejo curtir as postagens da timeline | RF08 |
 ST09 | Eu como usuário desejo comentar nas postagens da timeline | RF09 |
 ST10 | Eu como usuário desejo compartilhar postagens da timeline | RF10 |
 ST11 | Eu como usuário desejo salvar vagas que achar interessantes | RF11 |
-ST12 | Eu como usuário desejo uma forma de acesso rápido ao meu perfil | RNF01 |
-ST13 | Eu como usuário desejo ser notificado quando receber mensagens e propostas de vagas| RNF02 |
-ST14 | Eu como usuário desejo dar feedback para as vagas que estou recebendo | RNF03 |
-ST15 | Eu como usuário desejo receber vagas relacionadas a minha área de atuação | RNF04 |
+ST12 | Eu como usuário desejo uma forma de acesso rápido ao meu perfil | RF01 |
+ST13 | Eu como usuário desejo ser notificado quando receber mensagens e propostas de vagas| RF02 |
+ST14 | Eu como usuário desejo dar feedback para as vagas que estou recebendo | RF03 |
+ST15 | Eu como usuário desejo receber vagas relacionadas a minha área de atuação | RF04 |
 
 <h6 align = "center"> Tabela 1: Requisitos Funcionais e Não-Funcionais do Storytelling </h6>
 <h6 align = "center"> Fonte: Autores </h6>

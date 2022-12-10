@@ -35,7 +35,7 @@ Diante disso, a criação de nossas personas foram baseadas nos elementos caract
 ## 3. Personas
 ### 3.1 Kenzo Martins
 <center>
-![Persona 1](https://user-images.githubusercontent.com/71900095/204845121-d37ed468-e44e-4e6f-b1bc-ad9c76bfb7a4.png)
+<img src="../assets/personas/Kenzo Martins.jpg" alt="Persona 1" width="50%" heigght="50%" title="Persona 1">
 </center>
 <figcaption align='center'>
     <b>Figura 1: Primeira persona.</b>
