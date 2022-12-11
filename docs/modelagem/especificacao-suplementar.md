@@ -80,3 +80,59 @@ integração via WS, REST etc.
 
 - **Físico:** Determina restrições de hardware e implantação, por
 exemplo, HD, RAM etc.
+
+## 3. Resultado
+
+### 3.1 Funcionalidades
+Os requisitos funcionais estão definidos por meio dos [Casos de Uso](use-case.md).
+
+### 3.2 Usabilidade
+**Responsividade**
+
+O sistema deve possuir responsividade em diferentes tamanhos de telas de smartphones ou tablets.
+
+Rastro: [Brainstorm](../elicitacao/brainstorm.md)
+
+**Resposta instântanea em troca de mensagens**
+
+Durante as conversas entre usuários por meio de mensagens disponíveis no Linkedin, o recebimento e envio de mensagens deve ser instantâneo, para que haja uma troca de informações fluída e imediata.
+
+### 3.3 Confiabilidade
+**Estabilidade**
+
+O Linkedin prioriza a estabilidade do conteúdo textual dos posts em detrimento dos vídeos ou imagens.
+
+### 3.4 Desempenho
+**Comunicação com o servidor**
+
+O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos.
+
+Rastro: [Brainstorm](../elicitacao/brainstorm.md)
+
+**Armazenamento da aplicação (aplicativo)**
+
+O usuário deverá possuir um espaço de 23.77MB para instalar o aplicativo em um dispositivo mobile.
+
+**Capacidade**
+
+O servidor do Linkedin deverá ser capaz de suportar milhares de usuários cadastrados, bem como suas postagens.
+
+O servidor do Linkedin deverá ser capaz de suportar todas as ofertas de emprego cadastradas pelas empresas e/ou usuários.
+
+O servidor do Linkedin deverá ser capaz de suportar todas as trocas de mensagens entre os usuários.
+### 3.5 Suportabilidade
+**A compatibilidade com o Linkedin aplicativo:**
+
+iPhone e iPad - iTunes App Store
+
+  - Apenas dispositivos Apple de 64 bits rodando o iOS 13.0 ou superior são suportados.
+
+Android - Google Play
+
+  - Apenas dispositivos com Android Oreo (8.0 / API nível 26) ou superior são suportados.
+
+Rastro: [Brainstorm](../elicitacao/brainstorm.md)
+
+**Internacionalização**
+
+O Linkedin deverá estar disponível em 26 idiomas.
