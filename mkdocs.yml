@@ -7,6 +7,8 @@ theme:
   language: 'pt'
   palette:
     primary: 'indigo'
+  features:
+    - navigation.tabs
 nav:
   - Página Inicial: index.md
   - Planejamento do Projeto:
@@ -28,6 +30,7 @@ nav:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
   - Modelagem:
+    - Especificação suplementar: ./modelagem/especificacao-suplementar.md
     - Use Case: ./modelagem/use-case.md
   - Atas e Reuniões:
     - Novembro:
