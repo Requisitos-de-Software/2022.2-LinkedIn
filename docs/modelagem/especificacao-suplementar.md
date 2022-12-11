@@ -136,3 +136,12 @@ Rastro: [Brainstorm](../elicitacao/brainstorm.md)
 **Internacionalização**
 
 O Linkedin deverá estar disponível em 26 idiomas.
+
+## 4. Referências
+> GOIS, Samily; SOBRINHO, Francisco. Projeto de Software Floricultura Beija-Flor Especificação Suplementar. Disponível em: https://aprender3.unb.br/pluginfile.php/2307514/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf. Acesso 10 dez. 2022.
+
+> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13. Disponível em: https://aprender3.unb.br/pluginfile.php/2307510/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso 10 dez. 2022.
+
+> Rational Software Corporation. Conceitos: Requisitos. Disponível em: https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/workproducts/resources/co_req.htm. Acesso 10 dez. 2022.
+
+> Técnicas de arquitetura para trabalhar com requisitos de sistema. Disponível em: https://www.rcelebrone.com/2020/06/tecnicas-arquitetura-requisitos-sistema.html. Acesso 10 dez. 2022. 
