@@ -7,8 +7,6 @@ theme:
   language: 'pt'
   palette:
     primary: 'indigo'
-  features:
-    - navigation.tabs
 nav:
   - Página Inicial: index.md
   - Planejamento do Projeto:
