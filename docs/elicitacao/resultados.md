@@ -58,7 +58,7 @@ Este documento visa se reunir todos os requisitos elicitados, levando em conta t
 | RNF04 | O sistema deve garantir a privacidade e segurança dos dados do usuário | Brainstorm/Observação |
 | RNF05 | O usuário acessará as funcionalidades do aplicativo por meio de um menu | Introspecção |
 | RNF06 | O aplicativo apresentará aba com resposta a perguntas de maior frequência| Introspecção |
-| RNF06 | O aplicativo apresentará opção de ajuda para possíveis dúvidas| Introspecção |
+| RNF07 | O aplicativo apresentará opção de ajuda para possíveis dúvidas| Introspecção |
 
 <h6 align = "center"> Tabela 1: Não-Funcionais dos Resultados </h6>
 <h6 align = "center"> Fonte: Autores </h6>
