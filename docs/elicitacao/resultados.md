@@ -14,7 +14,7 @@ Este documento visa se reunir todos os requisitos elicitados, levando em conta t
 | Número | Requisitos | Técnica |
 | --- | --- | --- |
 | RF01 | O usuário deve ser capaz de realizar a criação de um perfil  | Brainstorm |
-| RF02 | O usuário deve ser capaz de realizar alterações de informações em seu perfil | Brainstorm/Observação/Introspecção |
+| RF02 | O usuário deve ser capaz de realizar alterações de informações em seu perfil | Brainstorm/Observação/Introspecção/Storytelling |
 | RF03 | O usuário deve ser capaz de realizar publicações em seu perfil | Brainstorm/Observação |
 | RF04 | O usuário deve ser capaz de realizar conexões com outros usuários | Brainstorm |
 | RF05 | O usuário deve ser capaz de visualizar publicações de outros usuários | Brainstorm/Entrevista/Introspecção |
@@ -42,9 +42,8 @@ Este documento visa se reunir todos os requisitos elicitados, levando em conta t
 | RF27 | O aplicativo apresentará aba com resposta a perguntas de maior frequência | Introspecção |
 | RF28 | O usuário conseguirá acessar processos seletivos, por meio de links dispostos no app | Introspecção |
 | RF29 | Eu como usuário desejo uma timeline mostrando as postagens dos perfis que sigo | Storytelling |
-| RF30 | Eu como usuário desejo fazer postagens | Storytelling |
-| RF31 | Eu como usuário desejo comentar nas postagens | Storytelling |
-| RF32 | Eu como usuário desejo salvar vagas que achar interessantes | Storytelling |
+| RF30 | Eu como usuário desejo comentar nas postagens | Storytelling |
+| RF31 | Eu como usuário desejo salvar vagas que achar interessantes | Storytelling |
 
 <h6 align = "center"> Tabela 1: Requisitos Funcionais dos Resultados </h6>
 <h6 align = "center"> Fonte: Autores </h6>
@@ -53,13 +52,13 @@ Este documento visa se reunir todos os requisitos elicitados, levando em conta t
 
 | Número | Requisitos | Técnica |
 | --- | --- | --- |
-| RF01 | O sistema deve ser disponível na maioria dos sistemas operacionais mobile disponíveis | Brainstorm |
-| RF02 | O sistema deve possuir responsividade | Brainstorm |
-| RF03 | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos | Brainstorm |
-| RF04 | O sistema deve garantir a privacidade e segurança dos dados do usuário | Brainstorm/Observação |
-| RF05 | O usuário acessará as funcionalidades do aplicativo por meio de um menu | Introspecção |
-| RF06 | O aplicativo apresentará aba com resposta a perguntas de maior frequência| Introspecção |
-| RF06 | O aplicativo apresentará opção de ajuda para possíveis dúvidas| Introspecção |
+| RNF01 | O sistema deve ser disponível na maioria dos sistemas operacionais mobile disponíveis | Brainstorm |
+| RNF02 | O sistema deve possuir responsividade | Brainstorm |
+| RNF03 | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos | Brainstorm |
+| RNF04 | O sistema deve garantir a privacidade e segurança dos dados do usuário | Brainstorm/Observação |
+| RNF05 | O usuário acessará as funcionalidades do aplicativo por meio de um menu | Introspecção |
+| RNF06 | O aplicativo apresentará aba com resposta a perguntas de maior frequência| Introspecção |
+| RNF06 | O aplicativo apresentará opção de ajuda para possíveis dúvidas| Introspecção |
 
 <h6 align = "center"> Tabela 1: Não-Funcionais dos Resultados </h6>
 <h6 align = "center"> Fonte: Autores </h6>
