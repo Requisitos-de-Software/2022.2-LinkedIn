@@ -28,8 +28,10 @@ nav:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
   - Modelagem:
+    - Léxicos: ./modelagem/lexicos.md
     - Use Case: ./modelagem/use-case.md
     - Cenários: ./modelagem/cenarios.md
+    - Especificação suplementar: ./modelagem/especificacao-suplementar.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md
