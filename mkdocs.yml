@@ -30,6 +30,7 @@ nav:
   - Modelagem:
     - Léxicos: ./modelagem/lexicos.md
     - Use Case: ./modelagem/use-case.md
+    - Cenários: ./modelagem/cenarios.md
     - Especificação suplementar: ./modelagem/especificacao-suplementar.md
   - Atas e Reuniões:
     - Novembro:
