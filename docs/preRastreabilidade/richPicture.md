@@ -1,11 +1,11 @@
 ## Histórico de Versões
 
-**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
+**Versão** | **Data** | **Descrição** | **Autor(es/as)** | **Revisor** |
 :---: | :---: | :---: | :---: | :---: |
- 11/11/2022 | 1.0 | Criação do Primeiro Rich Picture | Guilherme Barbosa | Mateus Franco |
- 13/11/2022 | 2.0 | Segunda Versão do Rich Picure | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
- 14/11/2022 | 3.0 | Adição da legenda do Rich Picture e das referências | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
- 23/11/2022 | 4.0 | Terceira Versão do Rich Picture | Guilherme Barbosa | Mateus Franco
+ 0.1 | 11/11/2022 | Criação do Primeiro Rich Picture | Guilherme Barbosa | Mateus Franco |
+ 0.2 | 13/11/2022 | Segunda Versão do Rich Picure | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
+ 0.3 | 14/11/2022 | Adição da legenda do Rich Picture e das referências | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
+ 0.4 | 23/11/2022 | Terceira Versão do Rich Picture | Guilherme Barbosa | Mateus Franco
 
 ## 1. Introdução
 
@@ -26,7 +26,7 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 ![RichPictureGuilherme](../assets/richPictures/RichPicture1.jpg)
 
 <h6 align = "center"> Figura 1: Rich Picture - Versão 1.0
-<br> Autor: Guilherme Barbosa 
+<br> Autor: Guilherme Barbosa
 <br> Fonte: Autores </h6>
 
 ## 4. Rich Picture - Segunda versão
@@ -34,14 +34,14 @@ Há um guia disponível no `Introducing Rich Pictures - Rich Picture Drawline Gu
 ![RichPicturePedro](../assets/richPictures/RichPicture2.png)
 
 <h6 align = "center"> Figura 2: Rich Picture - Versão 2.0
-<br> Autores: Pedro Henrique e Guilherme Barbosa 
+<br> Autores: Pedro Henrique e Guilherme Barbosa
 <br> Fonte: Autores </h6>
 
 ## 5. Rich Picture - Terceira versão
 
 ![RichPicture3](../assets/richPictures/RichPicture3.png)
 <h6 align = "center"> Figura 3: Rich Picture - Versão 2.0
-<br> Autores: Pedro Henrique e Guilherme Barbosa 
+<br> Autores: Pedro Henrique e Guilherme Barbosa
 <br> Fonte: Autores </h6>
 
 | Componentes | Comentários |

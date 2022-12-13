@@ -1,6 +1,7 @@
 # Cronograma do Projeto
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição |  Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 0.1 | 08/11/2022 | Criação do Artefato | Mateus Franco | Guilherme Barbosa |
@@ -8,9 +9,9 @@
 | 0.3 | 10/11/2022 | Desenvolvimento do Artefato | Breno Henrique | Mateus Franco |
 | 0.4 | 17/11/2022 | Desenvolvimento do Artefato | Breno Henrique | Mateus Franco |
 
+## 1. Introdução
 
-## 1. Introdução 
-A partir do plano de ensino disponibilizado no início do semestre, foi formado um cronograma com as principais atividades que a equipe deverá realizar. 
+A partir do plano de ensino disponibilizado no início do semestre, foi formado um cronograma com as principais atividades que a equipe deverá realizar.
 
 Cada entrega será dividida em tarefas e atribuídas aleatóriamente à cada integrante da equipe, para que, assim, o desenvolvimento do projeto seja realizado de forma produtiva e sustentável.
 
@@ -28,6 +29,7 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | Etapa 6 | Pós-Rastreabilidade | - Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 17/01 - 23/01
 
 <h6 align = "center"> Tabela 1: Planejamento do cronograma de atividades gerais </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## 3. Cronograma Por Etapa
 
@@ -36,26 +38,30 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | Atividade(s) | Responsável | Revisor | Prazo para realização |
 | --- | --- | --- | --- |
 | Selecionar app para o projeto | Todos | Mateus Franco | 04/11/2022 - 10/11/2022 |
-| Rich Picture | Pedro Moraes e Guilherme Barbosa | Mateus Franco | 04/11/2022 - 10/11/2022 |
-| Cronograma Detalhado | Breno Henrique | Guilherme Barbosa | 04/11/2022 - 10/11/2022 |
+| Rich Picture | Pedro Moraes e Guilherme Barbosa | Letícia Aires | 04/11/2022 - 10/11/2022 |
+| Cronograma Detalhado | Breno Henrique | Samuel Castro | 04/11/2022 - 10/11/2022 |
 | Definição de Ferramentas | Samuel Castro | Guilherme Barbosa | 04/11/2022 - 10/11/2022 |
-| Definição de Metodologias | Letícia Aires | Guilherme Barbosa | 04/11/2022 - 10/11/2022 |
-| Gravação da Apresentação | Todos | Todos | 13/11/2022 |
+| Definição de Metodologias | Letícia Aires | Breno Henrique | 04/11/2022 - 10/11/2022 |
+| Gravação da Apresentação | Pedro Henrique | Todos | 13/11/2022 |
 | Entrega da Apresentação | Todos | Todos | 21/11/2022 |
 
 <h6 align = "center"> Tabela 2: Cronograma do Planejamento do Projeto </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.2 Etapa 2 - Elicitação de Requisitos
 
 | Atividade(s) | Responsável | Revisor | Prazo para realização |
 | --- | --- | --- | --- |
-| Criação de Personas e Perfis de Usuário | Mateus Franco e Samuel Castro | Todos | 23/11/2022 |
-| Selecionar técnicas de elicitação de requisitos que serão utilizadas | Letícia Aires e Pedro Moraes | Todos | 22/11/2022 |
-| Selecionar técnicas de priorização que serão utilizadas | Guilherme Barbosa e Breno Henrique | Todos | 22/11/2022 |
-| Gravação da Apresentação | Todos | Todos | 29/11/2022 |
-| Entrega da Apresentação | Todos | Todos | 30/11/2022 |
+| Criação de Personas e Perfis de Usuário | Samuel Victor | Mateus Franco | 23/11/2022 |
+| Introspecção | Letícia Aires | Breno Henrique | 22/11/2022 |
+| Observação | Breno Henrique | Guilherme Barbosa | 22/11/2022 |
+| Brainstorm | Mateus Franco | Letícia Aires | 29/11/2022 |
+| Entrevista | Guilherme Barbosa | Pedro Henrique | 30/11/2022 |
+| Storytelling | Pedro Henrique | Samuel Castro | 30/11/2022 |
+| Priorização | Letícia Aires e Guilherme Barbosa | Mateus Franco | 30/11/2022 |
 
 <h6 align = "center"> Tabela 3: Cronograma da parte de Elicitação de Requisitos </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.3 Etapa 3 - Modelagem de Requisitos
 
@@ -63,14 +69,15 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | --- | --- | --- | --- |
 | Cenário | Samuel Castro | Breno Henrique | 01/12/2022 - 09/12/2022 |
 | Léxico | Breno Henrique | Letícia Aires | 01/12/2022 - 09/12/2022 |
-| Use Case | Letícia Aires e Mateus Franco| Mateus Franco | 01/12/2022 - 09/12/2022 |
-| Especificação Suplementar | Guilherme Barbosa | Pedro Moraes | 01/12/2022 - 09/12/2022 |
+| Use Case | Letícia Aires e Mateus Franco| Pedro Moraes  | 01/12/2022 - 09/12/2022 |
+| Especificação Suplementar | Guilherme Barbosa | Mateus Franco | 01/12/2022 - 09/12/2022 |
 | Revisão e Correção dos artefatos das primeira etapa | Mateus Franco | Samuel Castro | 01/12/2022 - 09/12/2022 |
-| Revisão e Correção dos artefatos das segunda  etapa | Pedro Moraes | Mateus Franco | 01/12/2022 - 09/12/2022 |
+| Revisão e Correção dos artefatos das segunda  etapa | Pedro Moraes | Guilherme Barbosa | 01/12/2022 - 09/12/2022 |
 | Gravação da Apresentação | Todos | Todos | 11/12/2022 |
 | Entrega da Apresentação | Todos | Todos | 12/12/2022 |
 
 <h6 align = "center"> Tabela 4: Cronograma da parte 1 de Modelagem de requisitos </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.4 Etapa 4 - Modelagem de Requisitos
 
@@ -83,6 +90,7 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | Entrega da Apresentação | Todos | Todos | 04/01/2023 |
 
 <h6 align = "center"> Tabela 5: Cronograma da parte 2 de Modelagem de Requisitos </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.5 Etapa 5 - Análise de Requisitos
 
@@ -94,6 +102,7 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | Entrega da Apresentação | Todos | Todos | 09/01/2023 e 16/01/2023 |
 
 <h6 align = "center"> Tabela 6: Cronograma da parte de Análise de Requisitos </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.6 Etapa 6 - Pós-Rastreabilidade
 
@@ -104,3 +113,4 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 | Entrega da Apresentação | Todos | Todos | 23/01/2023 |
 
 <h6 align = "center"> Tabela 7: Cronograma da parte de Pós-Rastreabilidade </h6>
+<h6 align = "center"> Fonte: Autores </h6>

@@ -1,17 +1,20 @@
 # Ferramentas Utilizadas
 
 ## Histórico de Versão
+
 | Versão | Data | Descrição |  Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 0.1 | 08/11/2022 | Criação do Artefato | Mateus Franco | Guilherme Barbosa |
 | 0.2 | 08/11/2022 | Desenvolvimento do Artefato | Mateus Franco | Guilherme Barbosa |
 
 ## 1. Introdução
+
 Para o desenvolvimento do projeto, houve a necessidade por parte da equipe da utilização de diversas ferramentas computacionais, a fim de auxiliar com as demandas da disciplina.
 
 A Tabela 1 abaixo, localizada no tópico 2, indica todas as ferramentas utilizadas durante o desenvolvimento do projeto.
 
 ## 2. Ferramentas
+
 | **Ícone** | **Ferramenta** | **Função** |
 | --- | --- | --- |
 |<img src="https://user-images.githubusercontent.com/54439337/178488439-887b302a-df0b-4a4b-8929-cb5e3a7c977b.png" height= 60 width=60> | Discord| Aplicativo para condução de reuniões remotas. |
@@ -24,4 +27,4 @@ A Tabela 1 abaixo, localizada no tópico 2, indica todas as ferramentas utilizad
 |<img src="https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/raw/development/docs/assets/figma-logo.png" height= 45 width=45> | Figma | Ferramenta para prototipagem. |
 |<img src="https://user-images.githubusercontent.com/71900095/202864771-aebc8dc7-65ba-4625-868f-24a7124d2f37.png" height= 90 width=90> | LucidChart | Ferramenta para criação de esquemas. |
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
-
+<h6 align = "center"> Fonte: Autores </h6>
