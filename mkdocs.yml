@@ -29,6 +29,7 @@ nav:
       - First Things First: ./elicitacao/first_things_first.md
   - Modelagem:
     - Use Case: ./modelagem/use-case.md
+    - Cenários: ./modelagem/cenarios.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md

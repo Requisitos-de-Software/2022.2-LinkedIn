@@ -122,6 +122,7 @@
 |     **Exceção**     | - Falta de internet;<br>- Dispositivo não suporta o Linkedin <br>- queda do sistema  |
 |    **Episódios**    | - Usuário tem o desejo de visualizar um perfil de outro usuário;<br>- Usuário pesquisa o perfil que deseja na barra de procurar;<br>- Usuário visualiza o perfil.
 | **Rastreabilidade** | RF24, RF05, RF07, RF11 |
+
 ## Referências
 
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
