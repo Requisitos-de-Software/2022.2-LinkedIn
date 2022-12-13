@@ -19,11 +19,10 @@
 <h6 align = "center"> Vídeo 1: Entrega da Apresentação do Projeto Etapa 1. 
 <br> Fonte: Autores </h6>
 
-> Disponibilizado dia 21 de novembro de 2022
+> Disponibilizado dia 21 de Novembro de 2022
 
 
-## Apresentação 2 - Elicitação
-
+## Apresentação 2 - Elicitação de Requisitos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VgOZjjHK98Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
@@ -31,14 +30,13 @@
 <h6 align = "center"> Vídeo 2: Entrega da Apresentação do Projeto Etapa 2. 
 <br> Fonte: Autores </h6>
 
-> Disponibilizado dia 30 de novembro de 2022
+> Disponibilizado dia 30 de Novembro de 2022
 
 
 
-## Apresentação 3 - modelagem
+## Apresentação 3 - Modelagem de Requisitos
 
-
-<iframe width="560" height="315" src="https://youtu.be/AkGiMkjnn1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkGiMkjnn1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 <h6 align = "center"> Vídeo 3: Entrega da Apresentação do Projeto Etapa 3. 
