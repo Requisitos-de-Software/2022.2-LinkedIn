@@ -1,4 +1,5 @@
 ## Histórico de Versão
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 0.1 | 08/11/2022 | Criação do Artefato | Mateus Franco | Guilherme Barbosa |
@@ -22,7 +23,7 @@ Letícia Aires | Whatsapp |[RichPictureLeticiaAires.pdf](https://github.com/Requ
 Guilherme Barbosa | Carteira Digital de Trânsito | [RichPictureGuilhermeBarbosa.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/9981354/RichPictureGuilhermeBarbosa.pdf)
 Pedro Moraes | AliExpress | [RichPicturePedroHenrique.pdf](https://github.com/Requisitos-de-Software/2022.2-LinkedIn/files/10049895/RichPicturePedroHenrique.pdf)
 
-<h6 align = "center"> Tabela 1 - Tabela com os aplicativos analisados 
+<h6 align = "center"> Tabela 1 - Tabela com os aplicativos analisados
 <br> Fonte: Autores </h6>
 
 ## 3. Aplicativo LinkedIn
@@ -37,3 +38,9 @@ O aplicativo foi selecionado tendo em vista suas inúmeras funcionalidades, as q
 
 <h6 align = "center"> Imagem 1 - Imagem do aplicativo na play store
 <br> Fonte: Autores </h6>
+
+## 4. Referências
+
+> COHN, Mike. **Desenvolvimento de Software com Scrum**: Aplicando Métodos Ágeis com Sucesso. 2021. Disponível em: [https://books.google.com.br/books](https://books.google.com.br/books?hl=pt-BR&lr=&id=gbgpDwAAQBAJ&oi=fnd&pg=PP1&dq=scrum&ots=LKeHqsPUgZ&sig=K6qMsH0Oq#v=onepage&q=scrum&f=false). Acesso em: 10 de jul. de 2022.
+
+> Monografia: RASTREABILIDADE DE REQUISITOSArquivo : <https://aprender3.unb.br/pluginfile.php/2307452/mod_resource/content/3/02%2005_20_sayao.pdf>
