@@ -46,6 +46,9 @@ João Pedro José | 23 | Não binário | Universitário e Estagiário | 28/11/20
 | 07 | Você encontra alguma dificuldade em utilizar o aplicativo?
 | 08 | Consegue pensar em alguma coisa que pode ser melhorada?
 
+<h6 align = "center"> Tabela 3: Perguntas. </h6>
+<h6 align = "center"> Fonte: Autores </h6>
+
 ## 2.3 Respostas
 
 Pergunta | Resposta
@@ -59,7 +62,7 @@ Pergunta | Resposta
 7. Você encontra alguma dificuldade em utilizar o aplicativo? | Não.
 8. Consegue pensar em alguma coisa que pode ser melhorada? | Uma coisa que acho que seria interessante ter no Linkedin é uma parte de avaliação da empresa, onde os funcionários e ex-funcionários podessem avaliar a empresa e atribuir uma nota além de deixar comentários (parecido com o glassdor) pra isso talvez seja necessário uma validação da empresa quando a pessoa se colocar como funcionário.
 
-<h6 align = "center"> Tabela 3: Perguntas e respostas - Versão 1.0
+<h6 align = "center"> Tabela 4: Respostas - Versão 1.0
 <br> Autor: Guilherme Barbosa 
 <br> Fonte: Autor </h6>
 

@@ -1,3 +1,10 @@
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-------|-----------| ------- |
+| 0.1 | 28/11/2022 | Documento Inicial | Letícia Aires | Mateus Franco |
+| 0.2 | 28/11/2022 | Adição de requisitos | Letícia Aires e Guilherme Barbosa | Mateus Franco |
+
 # Introspecção
 
 Durante a elicitação de requisitos, usa-se a técnica de introspecção, a qual consiste em conjecturar o sistema ideal para determinado usuário, tendo em vista suas necessidades e anseios.
@@ -17,7 +24,7 @@ Com relação as empresas, gostaria que houvesse um sistema de qualificação po
 ## Resultados 
 Os requisitos foram elicitados pelos membros Letícia Aires e Guilherme Barbosa, seguem, na tabela 1, os resultados da aplicação da técnica, separados entre requisitos não funcionais (RNF) e requisitos funcionais (RF).
 
-<figcaption><center>Tabela 1 - Requisitos encontrados por introspecção</figcaption>
+
 
 ID | Requisito | Tipo do requisito 
 -- | --------- | -----------------
@@ -31,15 +38,13 @@ ITP07 | O usuário conseguirá acessar processos seletivos, por meio de links di
 ITP08 | O usuário poderá visualizar as últimas notícias de suas empresas de interesse | RF
 ITP09 | O aplicativo apresentará opção de ajuda para possíveis dúvidas | RNF 
 
+<center><figcaption>Tabela 1: Requisitos da Instrospecção</figcaption></center>
+<h6 align = "center"> Fonte: Autores </h6>
+
 ## Referências
 
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
-<center><figcaption>Tabela 1: Requisitos da Instrospecção</figcaption></center>
 
-## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-|--------|------|-------|-----------| ------- |
-| 0.1 | 28/11/2022 | Documento Inicial | Letícia Aires | Mateus Franco |
-| 0.2 | 28/11/2022 | Adição de requisitos | Letícia Aires e Guilherme Barbosa | Mateus Franco |
+

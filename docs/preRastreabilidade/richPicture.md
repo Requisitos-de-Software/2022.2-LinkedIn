@@ -5,7 +5,7 @@
  0.1 | 11/11/2022 | Criação do Primeiro Rich Picture | Guilherme Barbosa | Mateus Franco |
  0.2 | 13/11/2022 | Segunda Versão do Rich Picure | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
  0.3 | 14/11/2022 | Adição da legenda do Rich Picture e das referências | Pedro Henrique e Guilherme Barbosa | Mateus Franco |
- 0.4 | 23/11/2022 | Terceira Versão do Rich Picture | Guilherme Barbosa | Mateus Franco
+ 0.4 | 23/11/2022 | Terceira Versão do Rich Picture | Guilherme Barbosa | Mateus Franco |
 
 ## 1. Introdução
 
