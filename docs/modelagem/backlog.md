@@ -56,7 +56,7 @@ A tabela a baixa mostra a lógica utilizada na construção do épico [Processos
 | US14 | RF23 | Me candidatar de forma simplificada para vagas de emprego | Me candidatar a processos seletivos sem precisar de reinserir seus dados já presentes no app | Must |
 | US15 | RF18 | Buscar por candidatos capacitados | Filtrar o perfil dos usuários aplicantes, a fim de obter os candidatos mais capacitados para a vaga em questão | Must |
 
-### 3.4
+### 3.4 Conta
 
 A tabela a baixa mostra a lógica utilizada na construção do épico [Conta](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/epicos/#epico-04-conta)
 
