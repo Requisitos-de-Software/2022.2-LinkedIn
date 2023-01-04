@@ -51,6 +51,7 @@ Como resultado da técnica de observação, foram levantados os seguintes requis
 </center>
 
 <h6 align = "center"> Tabela 1: Requisitos levantados utilizando a técnica da Observação. </h6>
+<h6 align = "center"> Fonte: Autores </h6>
 
 ## 4. Referências
 

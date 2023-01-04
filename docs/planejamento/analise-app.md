@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- |
 | 0.1 | 08/11/2022 | Criação do Artefato | Mateus Franco | Guilherme Barbosa |
 | 0.2 | 10/11/2022 | Adição de Conteúdo | Letícia Aires | Guilherme Barbosa |
+| 0.3 | 04/11/2022 | Correção do documento | Pedro Henrique | Mateus Franco |
 
 ## 1. Objetivo
 

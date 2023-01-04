@@ -30,8 +30,10 @@ nav:
   - Modelagem:
     - Cenários: ./modelagem/cenarios.md
     - Léxicos: ./modelagem/lexicos.md
-    - Use Case: ./modelagem/use-case.md
+    - Casos de Uso: ./modelagem/casos-de-uso.md
     - Especificação Suplementar: ./modelagem/especificacao-suplementar.md
+    - Histórias de Usuário: ./modelagem/historias-de-usuario.md
+    - Épicos: ./modelagem/epicos.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md

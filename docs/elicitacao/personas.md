@@ -5,6 +5,8 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 0.1 | 27/11/2022 | Criação do documento | Samuel Macedo | Pedro Caldeira |
+| 0.2 | 10/12/2022 | Alteração nas imagens | Pedro Caldeir | Samuel Macedo |
+
 
 
 ## 1. Introdução
@@ -35,7 +37,7 @@ Diante disso, a criação de nossas personas foram baseadas nos elementos caract
 ## 3. Personas
 ### 3.1 Kenzo Martins
 <center>
-![Persona 1](https://user-images.githubusercontent.com/71900095/204845121-d37ed468-e44e-4e6f-b1bc-ad9c76bfb7a4.png)
+<img src="../assets/personas/Kenzo Martins.jpg" alt="Persona 1" width="50%" heigght="50%" title="Persona 1">
 </center>
 <figcaption align='center'>
     <b>Figura 1: Primeira persona.</b>
@@ -54,8 +56,8 @@ Kenzo Martins é um jovem de 21 anos, mora com seus pais na cidade de Salvador-B
 
 ### 3.2 José Carlos
 <center>
-![Persona 2](https://user-images.githubusercontent.com/71900095/204845388-4f5fe1b6-4407-4cdd-872b-1ff71add8279.png)
-</center>
+<img src="../assets/personas/José Carlos.jpg" alt="Persona 2" width="50%" heigght="50%" title="Persona 2">
+</center> José Carlos
 <figcaption align='center'>
     <b>Figura 2: Segunda persona.</b>
     <br><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>
@@ -73,7 +75,7 @@ José Carlos é um engenheiro de computação que concluiu sua graduação e dec
 
 ### 3.3 Ana Guimarães
 <center>
-![Persona 3](https://user-images.githubusercontent.com/71900095/204845516-b0722b32-f0bb-4ddd-8a9b-d281e79c9010.png)
+<img src="../assets/personas/Ana Guimarães.jpg" alt="Persona 3" width="50%" heigght="50%" title="Persona 3">
 </center>
 <figcaption align='center'>
     <b>Figura 3: Terceira persona.</b>
@@ -94,7 +96,7 @@ Ana se formou em TI e passou toda sua vida estudando sobre o assunto, se pós gr
 
 ### 4.1 Gabriela Jardim
 <center>
-![Antipersona](https://user-images.githubusercontent.com/71900095/204845590-2e7ddc63-295e-46b1-b793-223b9ae85124.png )
+<img src="../assets/personas/Gabriela Jardim.jpg" alt="Antipersona" width="50%" heigght="50%" title="Antipersona">
 </center>
 <figcaption align='center'>
     <b>Figura 4: Antipersona.</b>
