@@ -51,9 +51,18 @@ Por meio de interação no discord entre usuários regulares e integrante da equ
 
 | ID | História de Usuário | Critérios de Aceitação | Prioridade |
 | -- | ------------------- | ---------------------- | ---------- |
-| US13 | Eu, como usuário regular, desejo pesquisar de forma simplificada por oportunidades de emprego | Por meio do uso simplificado de filtros na aba de pesquisas, o usuário deve encotrar oportunidades de emprego condizentes com sua busca | Must |
+| US13 | Eu, como usuário regular, desejo pesquisar de forma simplificada por oportunidades de emprego | Por meio do uso simplificado de filtros na aba de pesquisas, o usuário deve encontrar oportunidades de emprego condizentes com sua busca | Must |
 | US14 | Eu, como usuário regular, desejo aplicar de forma simplificada para vagas de emprego | Por meio de aplicação simplificada a vagas de emprego, o usuário deve poder se candidatar a processos seletivos sem precisar de reinserir seus dados já presentes no app | Must |
 | US15 | Eu, como empregador, desejo buscar por candidatos capacitados | O empregador deve poder filtrar o perfil dos usuários aplicantes, a fim de obter os candidatos mais capacitados para a vaga em questão | Must |
+
+## 4.4 Conta
+
+| ID | História de Usuário | Critérios de Aceitação | Prioridade |
+| -- | ------------------- | ---------------------- | ---------- |
+| US16 | Eu, como usuário regular, desejo criar uma conta | Novos usuários devem poder criar uma conta | Must |
+| US17 | Eu, como usuário regular, desejo logar na conta | Usuários que já possuírem uma conta devem poder logar na mesma por meio do username e senha | Must |
+| US18 | Eu, como empregador, desejo escolher o idioma do app | O usuário deve poder, durante a criação da sua conta, optar pelo idioma de uso do app | Must |
+
 
 ## Referências
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
