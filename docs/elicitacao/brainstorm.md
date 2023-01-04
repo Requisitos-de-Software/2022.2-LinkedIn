@@ -59,7 +59,7 @@ Os resultados da técnica de Brainstorm para o aplicativo LinkedIn estão aprese
 | --- | --- |
 | BS14 (RNF01) |O sistema deve ser disponível na maioria dos sistemas operacionais mobile disponíveis|
 | BS15 (RNF02) |O sistema deve possuir responsividade| 
-| BS16 (RNF03) |O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos | 
+| BS16 (RNF03) |O sistema deve ter um tempo de comunicação com o servidor de no máximo 3 segundos | 
 | BS17 (RNF04) |O sistema deve garantir a privacidade e segurança dos dados do usuário |
 
 <h6 align = "center"> Tabela 2: Requisitos Não-Funcionais do aplicativo</h6>

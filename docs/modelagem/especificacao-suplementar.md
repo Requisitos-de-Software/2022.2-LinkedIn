@@ -87,12 +87,6 @@ exemplo, HD, RAM etc.
 Os requisitos funcionais estão definidos por meio dos [Casos de Uso](use-case.md).
 
 ### 3.2 Usabilidade
-**Responsividade**
-
-O sistema deve possuir responsividade em diferentes tamanhos de telas de smartphones ou tablets.
-
-Rastro: [Brainstorm](../elicitacao/brainstorm.md)
-
 **Resposta instântanea em troca de mensagens**
 
 Durante as conversas entre usuários por meio de mensagens disponíveis no Linkedin, o recebimento e envio de mensagens deve ser instantâneo, para que haja uma troca de informações fluída e imediata.
