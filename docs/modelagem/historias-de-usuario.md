@@ -1,5 +1,13 @@
 # Histórias de Usuário
 
+## Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 19/12/2022 | Criação do documento                      | Letícia Aires | Samuel |
+| 0.2    | 26/12/2022 | Adição parcial de conteúdo                | Letícia Aires | Samuel |
+| 0.3    | 27/12/2022 | Adição integral de conteúdo                | Letícia Aires | Samuel |
+
 ## 1. Introdução
 O presente documento visa apresentar as histórias de usuário, que consistem em narrativas construídas de modo a apresentar o usuário em foco e, assim, definir soluções de software a uma problemática desse.
 
@@ -67,11 +75,3 @@ Por meio de interação no discord entre usuários regulares e integrante da equ
 ## Referências
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
 > - https://www.digite.com/pt-br/agile/historias-de-usuarios/
-
-### Histórico de versão
-
-| Versão | Data       | Descrição                                 | Autor        | Revisor |
-| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
-| 0.1    | 19/12/2022 | Criação do documento                      | Letícia Aires | Samuel |
-| 0.2    | 26/12/2022 | Adição parcial de conteúdo                | Letícia Aires | Samuel |
-| 0.3    | 27/12/2022 | Adição integral de conteúdo                | Letícia Aires | Samuel |
