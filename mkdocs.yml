@@ -32,6 +32,7 @@ nav:
     - Léxicos: ./modelagem/lexicos.md
     - Casos de Uso: ./modelagem/casos-de-uso.md
     - Especificação Suplementar: ./modelagem/especificacao-suplementar.md
+    - Histórias de Usuário: ./modelagem/historias-de-usuario.md
     - Épicos: ./modelagem/epicos.md
   - Atas e Reuniões:
     - Novembro:
