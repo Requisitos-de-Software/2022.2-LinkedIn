@@ -36,82 +36,82 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 
 ### 3.1 Etapa 1 - Planejamento do Projeto
 
-| Atividade(s) | Responsável | Revisor | Prazo para realização |
-| --- | --- | --- | --- |
-| Selecionar app para o projeto | Todos | Mateus Franco | 04/11/2022 - 10/11/2022 |
-| Rich Picture | Pedro Moraes e Guilherme Barbosa | Letícia Aires | 04/11/2022 - 10/11/2022 |
-| Cronograma Detalhado | Breno Henrique | Samuel Castro | 04/11/2022 - 10/11/2022 |
-| Definição de Ferramentas | Samuel Castro | Guilherme Barbosa | 04/11/2022 - 10/11/2022 |
-| Definição de Metodologias | Letícia Aires | Breno Henrique | 04/11/2022 - 10/11/2022 |
-| Gravação da Apresentação | Pedro Henrique | Todos | 13/11/2022 |
-| Entrega da Apresentação | Todos | Todos | 21/11/2022 |
+| Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
+| --- | --- | --- | --- | --- | --- |
+| Selecionar app para o projeto | Todos | Mateus Franco | 04/11/22 | 10/11/22 | 15/11/22 |
+| Rich Picture | Pedro Moraes e Guilherme Barbosa | Letícia Aires | 04/11/22 | 10/11/22 | 15/11/22 |
+| Cronograma Detalhado | Breno Henrique | Samuel Castro |04/11/22 | 10/11/22 | 15/11/22 |
+| Definição de Ferramentas | Samuel Castro | Guilherme Barbosa |04/11/22 | 10/11/22 | 15/11/22 |
+| Definição de Metodologias | Letícia Aires | Breno Henrique | 04/11/22 | 10/11/22 | 15/11/22 |
+| Gravação da Apresentação | Pedro Henrique | Todos | 16/11/22 | 20/11/22 | 21/11/22 |
+| Entrega da Apresentação | Todos | Todos | 20/11/22 | 21/11/22 | 21/11/22 |
 
 <h6 align = "center"> Tabela 2: Cronograma do Planejamento do Projeto </h6>
 <h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.2 Etapa 2 - Elicitação de Requisitos
 
-| Atividade(s) | Responsável | Revisor | Prazo para realização |
-| --- | --- | --- | --- |
-| Criação de Personas e Perfis de Usuário | Samuel Victor | Mateus Franco | 23/11/2022 |
-| Introspecção | Letícia Aires | Breno Henrique | 22/11/2022 |
-| Observação | Breno Henrique | Guilherme Barbosa | 22/11/2022 |
-| Brainstorm | Mateus Franco | Letícia Aires | 29/11/2022 |
-| Entrevista | Guilherme Barbosa | Pedro Henrique | 30/11/2022 |
-| Storytelling | Pedro Henrique | Samuel Castro | 30/11/2022 |
-| Priorização | Letícia Aires e Guilherme Barbosa | Mateus Franco | 30/11/2022 |
+| Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
+| --- | --- | --- | --- | --- | --- |
+| Criação de Personas e Perfis de Usuário | Samuel Victor | Mateus Franco | 22/11/22 | 28/11/22 | 29/11/22
+| Introspecção | Letícia Aires | Breno Henrique | 22/11/22 | 28/11/22 | 29/11/22
+| Observação | Breno Henrique | Guilherme Barbosa | 22/11/22 | 28/11/22 | 29/11/22
+| Brainstorm | Mateus Franco | Letícia Aires | 22/11/22 | 28/11/22 | 29/11/22
+| Entrevista | Guilherme Barbosa | Pedro Henrique | 22/11/22 | 28/11/22 | 29/11/22
+| Storytelling | Pedro Henrique | Samuel Castro | 22/11/22 | 28/11/22 | 29/11/22
+| Priorização | Letícia Aires e Guilherme Barbosa | Mateus Franco | 22/11/22 | 28/11/22 | 29/11/22
 
 <h6 align = "center"> Tabela 3: Cronograma da parte de Elicitação de Requisitos </h6>
 <h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.3 Etapa 3 - Modelagem de Requisitos
 
-| Atividade(s) | Responsável | Revisor | Prazo para realização |
-| --- | --- | --- | --- |
-| Cenário | Samuel Castro | Breno Henrique | 01/12/2022 - 09/12/2022 |
-| Léxico | Breno Henrique | Letícia Aires | 01/12/2022 - 09/12/2022 |
-| Use Case | Letícia Aires e Mateus Franco| Pedro Moraes  | 01/12/2022 - 09/12/2022 |
-| Especificação Suplementar | Guilherme Barbosa | Mateus Franco | 01/12/2022 - 09/12/2022 |
-| Revisão e Correção dos artefatos das primeira etapa | Mateus Franco | Samuel Castro | 01/12/2022 - 09/12/2022 |
-| Revisão e Correção dos artefatos das segunda  etapa | Pedro Moraes | Guilherme Barbosa | 01/12/2022 - 09/12/2022 |
-| Gravação da Apresentação | Todos | Todos | 11/12/2022 |
-| Entrega da Apresentação | Todos | Todos | 12/12/2022 |
+| Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
+| --- | --- | --- | --- | --- | --- |
+| Cenário | Samuel Castro | Breno Henrique | 01/12/22 | 10/12/22 | 11/12/22 |
+| Léxico | Breno Henrique | Letícia Aires | 01/12/22 | 10/12/22 | 11/12/22 |
+| Use Case | Letícia Aires e Mateus Franco| Pedro Moraes  | 01/12/22 | 10/12/22 | 11/12/22 |
+| Especificação Suplementar | Guilherme Barbosa | Mateus Franco | 01/12/22 | 10/12/22 | 11/12/22 |
+| Revisão e Correção dos artefatos das primeira etapa | Mateus Franco | Samuel Castro | 01/12/22 | 10/12/22 | 11/12/22 |
+| Revisão e Correção dos artefatos das segunda  etapa | Pedro Moraes | Guilherme Barbosa | 01/12/22 | 10/12/22 | 11/12/22 |
+| Gravação da Apresentação | Todos | Todos | 11/12/22 | 11/12/22 | 12/12/22 |
+| Entrega da Apresentação | Todos | Todos | 12/12/22 | 12/12/22 | 12/12/22
 
 <h6 align = "center"> Tabela 4: Cronograma da parte 1 de Modelagem de requisitos </h6>
 <h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.4 Etapa 4 - Modelagem de Requisitos
 
-| Atividade(s) | Responsável | Revisor | Prazo para realização |
-| --- | --- | --- | --- |
-| Ágil: NFR Framework | Pedro Moraes e Guilherme Barbosa | Letícia Aires e Samuel Castro | 13/12/2022 - 02/01/2023 |
-| Ágil: Backlog | Letícia Aires e Samuel Castro | Breno Henrique e Mateus Franco | 13/12/2022 - 02/01/2023 |
-| Ágil: Histórias de Usuário | Breno Henrique e Mateus Franco | Pedro Moraes e Guilherme Barbosa | 13/12/2022 - 02/01/2023 |
-| Gravação da Apresentação | Todos | Todos | 03/01/2023 |
-| Entrega da Apresentação | Todos | Todos | 04/01/2023 |
+| Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
+| --- | --- | --- | --- | --- | --- |
+| Ágil: NFR Framework | Pedro Moraes e Guilherme Barbosa | Letícia Aires e Samuel Castro | 13/12/22 | 02/01/23 | 03/01/23 |
+| Ágil: Backlog | Letícia Aires e Samuel Castro | Breno Henrique e Mateus Franco | 13/12/22 | 02/01/23 | 03/01/23 |
+| Ágil: Histórias de Usuário | Breno Henrique e Mateus Franco | Pedro Moraes e Guilherme Barbosa | 13/12/22 | 02/01/23 | 03/01/23 |
+| Gravação da Apresentação | Todos | Todos | 03/01/23 | 03/01/23 | 04/01/23 |
+| Entrega da Apresentação | Todos | Todos | 04/01/23 | 04/01/23 | 04/01/23 |
 
 <h6 align = "center"> Tabela 5: Cronograma da parte 2 de Modelagem de Requisitos </h6>
 <h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.5 Etapa 5 - Análise de Requisitos
 
-| Atividade(s) | Responsável | Revisor | Prazo para realização |
-| --- | --- | --- | --- |
-| Verificação | Breno Henrique, Samuel Castro e Guilherme Barbosa | Letícia Aires, Mateus Franco e Pedro Moraes | 05/01/2023 - 07/01/2023 |
-| Validação | Letícia Aires, Mateus Franco e Pedro Moraes | Breno Henrique, Samuel Castro e Guilherme Barbosa | 10/01/2023 - 15/01/2023 |
-| Gravação da Apresentação | Todos | Todos | 08/01/2023 e 15/01/2023 |
-| Entrega da Apresentação | Todos | Todos | 09/01/2023 e 16/01/2023 |
+| Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
+| --- | --- | --- | --- | --- | --- |
+| Verificação | Breno Henrique, Samuel Castro e Guilherme Barbosa | Letícia Aires, Mateus Franco e Pedro Moraes | 05/01/23 | 07/01/23 | 08/01/23 |
+| Validação | Letícia Aires, Mateus Franco e Pedro Moraes | Breno Henrique, Samuel Castro e Guilherme Barbosa | 09/01/23 | 14/01/23 | 15/01/23 |
+| Gravação da Apresentação | Todos | Todos | 09/01/23 | 09/01/23 | 09/01/23 |
+| Entrega da Apresentação | Todos | Todos | 09/01/23 | 09/01/23 | 09/01/23 |
 
 <h6 align = "center"> Tabela 6: Cronograma da parte de Análise de Requisitos </h6>
 <h6 align = "center"> Fonte: Autores </h6>
 
 ### 3.6 Etapa 6 - Pós-Rastreabilidade
 
-| Atividade(s) | Responsável | Revisor | Prazo para realização |
-| --- | --- | --- | --- |
-| Pós-Rastreabilidade | Todos | Todos | 17/01/2023 - 20/01/2023 |
-| Gravação da Apresentação | Todos | Todos | 22/01/2023 |
-| Entrega da Apresentação | Todos | Todos | 23/01/2023 |
+| Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
+| --- | --- | --- | --- | --- | --- |
+| Pós-Rastreabilidade | Todos | Todos | 17/01/2023  | 20/01/23 | 21/01/23 |
+| Gravação da Apresentação | Todos | Todos | 22/01/2023 | 22/01/2023 | 22/01/2023 |
+| Entrega da Apresentação | Todos | Todos | 23/01/2023 | 23/01/2023 | 23/01/2023 |
 
 <h6 align = "center"> Tabela 7: Cronograma da parte de Pós-Rastreabilidade </h6>
 <h6 align = "center"> Fonte: Autores </h6>
