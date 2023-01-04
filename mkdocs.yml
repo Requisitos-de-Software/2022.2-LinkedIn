@@ -27,6 +27,7 @@ nav:
     - Priorização:
       - MoScoW: ./elicitacao/moscow.md
       - First Things First: ./elicitacao/first_things_first.md
+    - Resultados: ./elicitacao/resultados.md
   - Modelagem:
     - Cenários: ./modelagem/cenarios.md
     - Léxicos: ./modelagem/lexicos.md
@@ -35,6 +36,7 @@ nav:
     - Histórias de Usuário: ./modelagem/historias-de-usuario.md
     - Épicos: ./modelagem/epicos.md
     - NFR Framework: ./modelagem/NFR-framework.md
+    - Backlog: ./modelagem/backlog.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28/12 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md
