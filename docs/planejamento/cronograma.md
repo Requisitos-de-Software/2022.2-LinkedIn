@@ -84,9 +84,11 @@ Abaixo segue a Tabela 1 do Planejamento do cronograma de atividades gerais:
 
 | Atividade(s) | Responsável | Revisor | Data de início | Data limite de entrega | Data limite de Revisão |
 | --- | --- | --- | --- | --- | --- |
-| Ágil: NFR Framework | Pedro Moraes e Guilherme Barbosa | Letícia Aires e Samuel Castro | 13/12/22 | 02/01/23 | 03/01/23 |
-| Ágil: Backlog | Letícia Aires e Samuel Castro | Breno Henrique e Mateus Franco | 13/12/22 | 02/01/23 | 03/01/23 |
-| Ágil: Histórias de Usuário | Breno Henrique e Mateus Franco | Pedro Moraes e Guilherme Barbosa | 13/12/22 | 02/01/23 | 03/01/23 |
+| Ágil: NFR Framework | Guilherme Barbosa | Letícia Aires e Samuel Castro | 13/12/22 | 02/01/23 | 03/01/23 |
+| Ágil: Backlog | Samuel Castro e Pedro Caldeira| Breno Henrique e Mateus Franco | 13/12/22 | 02/01/23 | 03/01/23 |
+| Ágil: Histórias de Usuário | Letícia Aires | Pedro Moraes e Guilherme Barbosa | 13/12/22 | 02/01/23 | 03/01/23 |
+| Ágil: Épicos | Breno Henrique | Mateus Franco | 13/12/22 | 02/01/23 | 03/01/23 |
+| Revisão e Correção dos artefatos da terceira  etapa | Mateus Franco | Breno Henrique | 13/12/22 | 02/01/23 | 03/01/23 |
 | Gravação da Apresentação | Todos | Todos | 03/01/23 | 03/01/23 | 04/01/23 |
 | Entrega da Apresentação | Todos | Todos | 04/01/23 | 04/01/23 | 04/01/23 |
 
