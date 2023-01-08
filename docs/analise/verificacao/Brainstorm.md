@@ -53,9 +53,9 @@ O objetivo do presente documento é apresentar a verificação do [Brainstorm](.
 </figcaption>
 
 
-## 4. Inspeção Storytelling
+## 4. Inspeção Brainstorm
 
-&emsp;&emsp;A checklist após inspeção do[Brainstorm](../../elicitacao/brainstorm.md) pode ser encontrada abaixo:
+&emsp;&emsp;A checklist após inspeção do [Brainstorm](../../elicitacao/brainstorm.md) pode ser encontrada abaixo:
 
 <center>
 
@@ -77,7 +77,7 @@ O objetivo do presente documento é apresentar a verificação do [Brainstorm](.
 </figcaption>
 
 ### 3.1 Resultados da inspeção
-&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 10 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 7 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
