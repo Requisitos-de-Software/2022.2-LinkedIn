@@ -47,11 +47,6 @@ O objetivo do presente documento é apresentar a verificação do [Brainstorm](.
 
 </center>
 
-<figcaption align='center'>
-    <b>Tabela 1: Preparação checklist Avaliação Protótipo de Papel </b>
-    <br><small> Fonte: Tabela de considerações da apresentação da etapa 4 da disciplina de IHC(Adaptado)</small>
-</figcaption>
-
 
 ## 4. Inspeção Brainstorm
 
@@ -73,7 +68,7 @@ O objetivo do presente documento é apresentar a verificação do [Brainstorm](.
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 2: Checklist da inspeção do Perfil de usuário </b>
+    <b>Tabela 2: Checklist da inspeção do Brainstorm </b>
 </figcaption>
 
 ### 3.1 Resultados da inspeção
