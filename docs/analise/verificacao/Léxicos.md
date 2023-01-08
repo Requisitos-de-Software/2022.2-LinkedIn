@@ -19,7 +19,7 @@ O objetivo do presente documento é apresentar a verificação dos [Léxicos](..
 
 &emsp;&emsp;Além disso, após identificarmos os erros presentes no artefato, iremos consertá-los, assim produzindo uma segunda versão do artefato.
 
-## 3. Inspeção Brainstorm
+## 3. Inspeção Léxicos
 
 &emsp;&emsp;A checklist após inspeção do [Brainstorm](../../elicitacao/brainstorm.md) pode ser encontrada abaixo:
 
