@@ -28,10 +28,10 @@
 | 2 | O artefato possui introdução? |  |
 | 3 | O artefato possui uma explicação da metodologia utilizada? |  |
 | 4 | Possui legendas nas figuras e tabelas? | |
-| 4 | As histórias de usuário seguem o padrão esperado? (Eu como usuário...) | |
-| 5 | As histórias possuem critérios de aceitação? | |
-| 6 | Possui épicos bem definidos e relacionados com as histórias de usuário? | |
-| 7 | Possui as referências utilizadas? | |
+| 5 | As histórias de usuário seguem o padrão esperado? (Eu como usuário...) | |
+| 6 | As histórias possuem critérios de aceitação? | |
+| 7 | Possui épicos bem definidos e relacionados com as histórias de usuário? | |
+| 8 | Possui as referências utilizadas? | |
 
 
 </center>
@@ -54,10 +54,10 @@
 | 2 | O artefato possui introdução? | ✅ |
 | 3 | O artefato possui uma explicação da metodologia utilizada? | ✅ |
 | 4 | Possui legendas nas figuras e tabelas? | ✅ |
-| 4 | As histórias de usuário seguem o padrão esperado? (Eu como usuário...) | ✅ |
-| 5 | As histórias possuem critérios de aceitação? | ✅ |
-| 6 | Possui épicos bem definidos e relacionados com as histórias de usuário? | ❌ |
-| 7 | Possui as referências utilizadas? | ✅ |
+| 5 | As histórias de usuário seguem o padrão esperado? (Eu como usuário...) | ✅ |
+| 6 | As histórias possuem critérios de aceitação? | ✅ |
+| 7 | Possui épicos bem definidos e relacionados com as histórias de usuário? | ❌ |
+| 8 | Possui as referências utilizadas? | ✅ |
 
 
 </center>
@@ -67,7 +67,7 @@
 </figcaption>
 
 ### 3.1 Resultados da inspeção
-&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 10 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 7 dos 8 critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 87,5% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -81,7 +81,7 @@
 </figcaption>
 
 
-&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com **85,7%** dos critérios de avaliação definidos na checklist, precisando de uma modificação na parte dos épicos.
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com **87,5%** dos critérios de avaliação definidos na checklist, precisando de uma modificação na parte dos épicos.
 
 
 ## Referências
