@@ -1,4 +1,4 @@
-# Verificação das Personas
+# Verificação do RichPicture
 
 ## Histórico de versões
 | Data | Versão | Descrição | Autor | Revisor |
@@ -7,7 +7,7 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Para verificar as **Personas** do projeto do Grupo 5 - [Google Maps](https://requisitos-de-software.github.io/2022.2-GoogleMaps/), usaremos a estratégia de "inspeções", seguindo o planejamento detalhado na página de [Planejamento da verificação](../planejamento.md)
+&emsp;&emsp;Para verificar o artefato **RichPicture** do projeto do Grupo 5 - [Google Maps](https://requisitos-de-software.github.io/2022.2-GoogleMaps/), usaremos a estratégia de "inspeções", seguindo o planejamento detalhado na página de [Planejamento da verificação](../planejamento.md)
 
 ## 2. Preparação
 
@@ -25,26 +25,27 @@
 | 1 | Possui versionamento? |  |
 | 2 | O artefato possui introdução? |  |
 | 3 | O artefato possui uma explicação da metodologia utilizada? |  |
-| 4 | As personas possuem os principais dados demográficos?(Nome, idade, ocupação) | |
-| 5 | As personas foram criadas com base nos perfis de usuário? | |
-| 6 | Possui um elenco de no mínimo 3 personas e no máximo 12? | |
-| 7 | Possui classificação de primária, secundária e antipersona? | |
-| 8 | A foto que representa a persona é de alguma pessoa que não existe? | |
-| 9 | As personas possuem necessidades claras? | |
-| 10 | Possui as referências utilizadas? | |
+| 4 | Apresenta os atores/stakeholders? | |
+| 5 | A simbologia foi utilizada da maneira correta? | |
+| 6 | Está organizado de uma forma que facilite o entendimento? | |
+| 7 | As setas estão representando o fluxo corretamente? | |
+| 8 | A fronteira foi definida? | |
+| 9 | Os atores/stakeholders estão fora da fronteira? | |
+| 10 | Possui um foco principal bem definido? | |
+| 11 | Possui as referências utilizadas? | |
 
 
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 1: Preparação checklist das Personas </b>
+    <b>Tabela 1: Preparação checklist do RichPicture </b>
     <br><small> Fonte: Tabela de considerações da apresentação da etapa 4 da disciplina de IHC(Adaptado)</small>
 </figcaption>
 
 
-## 3. Inspeção Histórias de Usuário
+## 3. Inspeção RichPicture
 
-&emsp;&emsp;A checklist após inspeção das **Personas** pode ser encontrada abaixo:
+&emsp;&emsp;A checklist após inspeção do **RichPicture** pode ser encontrada abaixo:
 
 <center>
 
@@ -52,24 +53,26 @@
 | :---: | --- | :---: |
 | 1 | Possui versionamento? | ✅ |
 | 2 | O artefato possui introdução? | ✅ |
-| 3 | O artefato possui uma explicação da metodologia utilizada? | ✅ |
-| 4 | As personas possuem os principais dados demográficos?(Nome, idade, ocupação) | ✅ |
-| 5 | As personas foram criadas com base nos perfis de usuário? | ✅ |
-| 6 | Possui um elenco de no mínimo 3 personas e no máximo 12? | ✅ |
-| 7 | Possui classificação de primária, secundária e antipersona? | ✅ |
-| 8 | A foto que representa a persona é de alguma pessoa que não existe? | ✅ |
-| 9 | As personas possuem necessidades claras? | ✅ |
-| 10 | Possui as referências utilizadas? | ✅ |
+| 3 | O artefato apresenta o aplicativo? | ✅ |
+| 4 | Apresenta os atores/stakeholders? | ✅ |
+| 5 | A simbologia foi utilizada da maneira correta? | ✅ |
+| 6 | Está organizado de uma forma que facilite o entendimento? | ✅ |
+| 7 | As setas estão representando o fluxo corretamente? | ✅ |
+| 8 | A fronteira foi definida? | ✅ |
+| 9 | Os atores/stakeholders estão fora da fronteira? | ✅ |
+| 10 | Possui um foco principal bem definido? | ✅ |
+| 11 | Possui legenda? | ✅ |
+| 12 | Possui as referências utilizadas? | ✅ |
 
 
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 2: Checklist da inspeção das Personas </b>
+    <b>Tabela 2: Checklist da inspeção do RichPicture </b>
 </figcaption>
 
 ### 3.1 Resultados da inspeção
-&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 10 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento atende com 12 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
@@ -78,7 +81,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 1: Gráfico Personas  </b>
+    <b>Figura 1: Gráfico RichPicture  </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
