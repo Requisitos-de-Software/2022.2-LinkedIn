@@ -45,7 +45,6 @@ nav:
       - Rich Picture: ./analise/verificacao/richpicture.md
       - Histórias de Usuários: ./analise/verificacao/historias-de-usuario.md
       - MoScoW: ./analise/verificacao/moscow.md
-      - First Things First: ./analise/verificacao/first-things.md
       - Cenários: ./analise/verificacao/cenarios.md
   - Atas e Reuniões:
     - Novembro:

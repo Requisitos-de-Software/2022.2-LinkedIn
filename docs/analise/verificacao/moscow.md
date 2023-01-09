@@ -62,7 +62,7 @@ A checklist após inspeção do método de priorização **MoScoW** pode ser enc
 </figcaption>
 
 ### 3.1 Resultados da inspeção
- A partir da inspeção do artefato verificamos que o documento atende com 10 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
+ A partir da inspeção do artefato verificamos que o documento atende com 7 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <center>
 
