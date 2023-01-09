@@ -2,7 +2,7 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 :---: | :---: | :---: | :---: | :---: |
-08/01/2023 | 0.1 | Inspeção da Observação | Guilherme Barbosa | Letícia |
+08/01/2023 | 0.1 | Inspeção do Backlog | Guilherme Barbosa | Letícia |
 
 ## 1. Introdução
 
@@ -36,7 +36,7 @@
 &emsp;&emsp;A partir da inspeção do artefato verificamos que o documento atende com 8 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 100% como podemos ver a partir do gráfico abaixo:
 
 <figure markdown>
-![Grafico](../../assets/verificacao/backlog_grupo05_verificacao%20copy.png)
+![Grafico](../../assets/verificacao/backlog_grupo05_verificacao.png)
 
 <figcaption>
     <b>Figura 1: Gráfico da inspeção do Backlog</b>
