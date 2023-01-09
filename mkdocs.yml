@@ -33,13 +33,10 @@ nav:
     - Léxicos: ./modelagem/lexicos.md
     - Casos de Uso: ./modelagem/casos-de-uso.md
     - Especificação Suplementar: ./modelagem/especificacao-suplementar.md
+    - Histórias de Usuário: ./modelagem/historias-de-usuario.md
     - Épicos: ./modelagem/epicos.md
     - NFR Framework: ./modelagem/NFR-framework.md
     - Backlog: ./modelagem/backlog.md
-    - Ágil: 
-      - Backlog: ./modelagem/backlog.md
-      - Histórias de Usuário: ./modelagem/historias-de-usuario.md
-      - NFR Framework: ./modelagem/NFR-framework.md
   - Análise de Requisitos:
     - Planejamento da Verificação: ./analise/planejamento.md
     - Verificação - Grupo 5 (Google Maps):
