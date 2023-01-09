@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                         | Revisor                                      |
 | ---------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
-| 03/01/2022 | 1.0    | Criação do documento | Mateus Franco | Letícia Aires |
+| 15/12/2022 | 1.0    | Criação do documento | Mateus Franco | Letícia Aires |
 
 Reunião realizada remotamente
 
