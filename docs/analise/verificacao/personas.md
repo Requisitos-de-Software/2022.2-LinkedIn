@@ -73,7 +73,7 @@
 
 <center>
 
-![Grafico](../assets/../../assets/vericicacao/grafico-personas.png)
+![Grafico](../assets/../../assets/verificacao/grafico-personas.png)
 
 </center>
 

@@ -66,7 +66,7 @@ A checklist após inspeção do método de priorização **MoScoW** pode ser enc
 
 <center>
 
-![Grafico](../assets/../../assets/vericicacao/grafico-personas.png)
+![Grafico](../assets/../../assets/verificacao/grafico-personas.png)
 
 </center>
 

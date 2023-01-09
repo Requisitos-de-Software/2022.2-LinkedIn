@@ -70,7 +70,7 @@
 
 <center>
 
-![Grafico](../assets/../../assets/vericicacao/grafico-hu.png)
+![Grafico](../assets/../../assets/verificacao/grafico-hu.png)
 
 </center>
 
