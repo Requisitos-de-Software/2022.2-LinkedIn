@@ -49,6 +49,8 @@ nav:
       - Dia 28/12 - Entrevista: ./atas_e_reunioes/28-11-Entrevista.md
     - Dezembro:
       - Dia 15/12 - Modelagem: ./atas_e_reunioes/15-12-Modelagem.md
+    - Janeiro:
+      - Dia 02/01 - Backlog: ./atas_e_reunioes/02-01-Backlog.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
 - attr_list

@@ -1,4 +1,4 @@
-# Verificação do RichPicture
+# Verificação do Rich Picture
 
 ## Histórico de versões
 | Data | Versão | Descrição | Autor | Revisor |
