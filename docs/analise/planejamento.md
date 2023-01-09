@@ -7,12 +7,13 @@
 
 ## 1. Introdução
 
-
-&emsp;&emsp; Com o objetivo de revisar e corrigir os artefatos criados pela equipe durante o decorrer do projeto, iremos fazer a verificação destes artefatos. Neste documento iremos tratar do planejamento dessa verificação.
+ Com o objetivo de revisar e corrigir os artefatos criados pela equipe durante o decorrer do projeto, iremos fazer a verificação destes artefatos. Neste documento iremos tratar do planejamento dessa verificação.
 
 ## 2. Metodologia
 
-&emsp;&emsp; Para fazer a verificação destes artefatos, iremos utilizar a técnica de Inspeção, que possui com objetivo verificar se  o modelo do artefato está de acordo com o que se esperava. Para isso, com o objetivo de fazermos uma inspeção de qualidade, também utilizaremos os 6 passos de Fagan, que são:
+ Para fazer a verificação destes artefatos, iremos utilizar a técnica de Inspeção, que possui com objetivo verificar se  o modelo do artefato está de acordo com o que se esperava. 
+ 
+ Para isso, com o objetivo de fazermos uma inspeção de qualidade, também utilizaremos os seis passos de Fagan, que são:
 
 - Planejamento
 - Visão Geral
@@ -21,7 +22,9 @@
 - Correção
 - Acompanhamento
 
-&emsp;&emsp; Desta forma, os artefatos verificados serão:
+<br>
+
+ Desta forma, os artefatos verificados serão:
 
 - [Rich Picture](../preRastreabilidade/richPicture.md)
 - [Personas](../elicitacao/personas.md)
@@ -41,7 +44,7 @@
 - [Backlog](../modelagem/backlog.md)
 
 ## 3. Planejamento
-&emsp;&emsp; Assim, para a execução da verificação, dividimos a equipe para que cada membro pudesse revisar os artefatos feitos por outra pessoa, e fazendo esta divisão chegamos no seguinte cronograma:
+ Assim, para a execução da verificação, dividimos a equipe para que cada membro pudesse revisar os artefatos feitos por outra pessoa, e fazendo esta divisão chegamos no seguinte cronograma:
 
 |           Atividade          |    Data Prevista   | Autor da checklist | Revisor da checklist | 
 |:----------------------------:|:----------:|  :-------: | :---------: | 
@@ -68,7 +71,11 @@
 </figcaption>
 
 ## 4. Visão Geral
-&emsp;&emsp; Dessa forma, para cada um dos artefatos verificados, iremos produzir uma checklist contendo os critérios a serem avaliados, então iremos fazer a inspeção com o auxílio desta checklist, fazendo o registro de quais critérios estão atendidos e quais não estão. Após esta verificação, iremos fazer a análise do resultado, comparando os critérios atendidos e os não atendidos. Em seguida, avaliaremos se este artefato necessita de correções, se sim, iremos produzir uma segunda versão dele corrigindo todos os critérios não atendidos. E também faremos uma checklist e inspecção desta segunda versão, comparando-os com os resultados da primeira versão.
+ Dessa forma, para cada um dos artefatos verificados, iremos produzir uma checklist contendo os critérios a serem avaliados, então iremos fazer a inspeção com o auxílio desta checklist, fazendo o registro de quais critérios estão atendidos e quais não estão. 
+ 
+ Após esta verificação, iremos fazer a análise do resultado, comparando os critérios atendidos e os não atendidos. Em seguida, avaliaremos se este artefato necessita de correções, se sim, iremos produzir uma segunda versão dele corrigindo todos os critérios não atendidos.
+ 
+  E também faremos uma checklist e inspecção desta segunda versão, comparando-os com os resultados da primeira versão.
 
 ## 5. Referências
 > Serrano, M.; Serrano, M. Requisitos - Aula 20.
