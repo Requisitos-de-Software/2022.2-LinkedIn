@@ -7,20 +7,19 @@
 
 ## 1. Introdução
 
- Com o objetivo de revisar e corrigir os artefatos criados pela equipe durante o decorrer do projeto, iremos fazer a verificação destes artefatos. Neste documento iremos tratar do planejamento dessa verificação.
+ Com o objetivo de revisar e corrigir os artefatos criados durante o decorrer dos projetos, iremos fazer a verificação dos artefatos do grupo 5 (Google Maps). Neste documento iremos tratar do planejamento dessa verificação.
 
 ## 2. Metodologia
 
  Para fazer a verificação destes artefatos, iremos utilizar a técnica de Inspeção, que possui com objetivo verificar se  o modelo do artefato está de acordo com o que se esperava. 
  
- Para isso, com o objetivo de fazermos uma inspeção de qualidade, também utilizaremos os seis passos de Fagan, que são:
+ Para isso, com o objetivo de fazermos uma inspeção de qualidade, também utilizaremos os quatro passos de Fagan, que são:
 
 - Planejamento
 - Visão Geral
 - Preparação
 - Inspeção
-- Correção
-- Acompanhamento
+
 
 <br>
 
@@ -44,7 +43,7 @@
 - [Backlog](../modelagem/backlog.md)
 
 ## 3. Planejamento
- Assim, para a execução da verificação, dividimos a equipe para que cada membro pudesse revisar os artefatos feitos por outra pessoa, e fazendo esta divisão chegamos no seguinte cronograma:
+ Assim, para a execução da verificação, dividimos a equipe para que cada membro pudesse revisar os artefatos feitos, e fazendo esta divisão chegamos no seguinte cronograma:
 
 |           Atividade          |    Data Prevista   | Autor da checklist | Revisor da checklist | 
 |:----------------------------:|:----------:|  :-------: | :---------: | 
