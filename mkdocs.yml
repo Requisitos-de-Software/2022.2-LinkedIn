@@ -37,6 +37,10 @@ nav:
     - Épicos: ./modelagem/epicos.md
     - NFR Framework: ./modelagem/NFR-framework.md
     - Backlog: ./modelagem/backlog.md
+  - Análise:
+    - Verificação:
+      - Observação: ./analise/verificacao/Observacao.md
+      - Backlog: ./analise/verificacao/Backlog.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28/12 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md
