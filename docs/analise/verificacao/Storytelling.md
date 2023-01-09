@@ -68,7 +68,7 @@
 
 <center>
 
-![Grafico](../assets/../../assets/vericicacao/storytellingverificacao.png)
+![Grafico](../assets/../../assets/verificacao/storytellingverificacao.png)
 
 </center>
 
