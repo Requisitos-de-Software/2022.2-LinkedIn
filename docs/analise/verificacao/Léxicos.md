@@ -6,7 +6,7 @@
 | 09/01/2022 | 1.0    | Criação do documento | Letícia | Breno |
 ## 1. Introdução
 
-O objetivo do presente documento é apresentar a verificação dos **Léxicos** Grupo 5 - [Google Maps](https://requisitos-de-software.github.io/2022.2-GoogleMaps/)  desenvolvido no projeto e analisado por meio da técnica de inspeção, seguindo o planejamento detalhado na página de [Planejamento da verificação](../planejamento.md)
+O objetivo do presente documento é apresentar a verificação dos **Léxicos** do Grupo 5 - [Google Maps](https://requisitos-de-software.github.io/2022.2-GoogleMaps/)  desenvolvido no projeto e analisado por meio da técnica de inspeção, seguindo o planejamento detalhado na página de [Planejamento da verificação](../planejamento.md)
 <br>A técnica de verificação tem como intuito definir se o modelo atende às expectativas estabelecidas pelo cliente, tendo como base os requisitos elicitados pelos engenheiros de software.
 
 
