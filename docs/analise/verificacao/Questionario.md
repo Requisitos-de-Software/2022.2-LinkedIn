@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
-| 09/01/2022 | 0.1 | Criação do documento | Mateus Franco | Pedro Moraes |
+| 07/01/2022 | 0.1 | Criação do documento | Samuel Macedo | Mateus Franco |
 
 ## 1. Introdução
 
@@ -46,23 +46,23 @@ A checklist após inspeção do artefato de **Questionário** pode ser encontrad
 
 <center>
 
-| ID | Questão | Inspeção |
-| :---: | --- | :---: |
+|| ID | Questão |Inspenção|
+| :---: | --- |---|
 | 1 | Possui versionamento? |✅|
 | 2 | O artefato possui introdução? |✅|
-| 3 | O artefato possui uma explicação da metodologia utilizada? |❌|
-| 4 | Apresenta as perguntas que foram utilizadas no questionário? |✅|
-| 5 | As perguntas fazem sentido com o objetivo traçado? |✅|
-| 6 | possuí a plataforma que será feito o questionário? |✅|
-| 7 | O objetivo do questionário é claro? |✅|
-| 8 | O artefato apresenta os resultados do questionário? |✅|
-| 9 | Possui as referências utilizadas? |✅|
+| 3 | O artefato possui uma explicação da metodologia utilizada? |✅|
+| 4 | possui uma preparação para aplicação do questionário? |✅|
+| 5 | O questionário possui um código de ética?   |❌|
+| 6 | O objetivo do questionário é claro? |✅|
+| 7 | Possui os resultados do questionário? |✅|
+| 8 | Os resultados são apresentados de uma maneira clara? |✅|
+| 9 | Possui as referências utilizadas? |✅ |
 
 
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 2: Checklist da inspeção - Cenários </b>
+    <b>Tabela 2: Checklist da inspeção - Questionário </b>
 </figcaption>
 
 ### 3.1 Resultados da inspeção
