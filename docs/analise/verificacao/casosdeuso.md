@@ -1,4 +1,4 @@
-# Verificação das Histórias de Usuário
+# Verificação dos Casos de Uso
 
 ## Histórico de versões
 | Data | Versão | Descrição | Autor | Revisor |
