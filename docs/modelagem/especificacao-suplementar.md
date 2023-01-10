@@ -8,7 +8,7 @@
 
 ## 1. Introdução
 
-A finalidade da Especificação suplementar é definir os requisitos não-funcionais de um sistema. É complementar ao artefato de [casos de uso](../modelagem/use-case.md), pois, juntos, são definidos os requisitos de software, funcionais e não funcionais.
+A finalidade da Especificação suplementar é definir os requisitos não-funcionais de um sistema. É complementar ao artefato de [casos de uso](../modelagem/casos-de-uso.md), pois, juntos, são definidos os requisitos de software, funcionais e não funcionais.
 
 ## 2. Metodologia
 
@@ -84,7 +84,7 @@ exemplo, HD, RAM etc.
 ## 3. Resultado
 
 ### 3.1 Funcionalidades
-Os requisitos funcionais estão definidos por meio dos [Casos de Uso](use-case.md).
+Os requisitos funcionais estão definidos por meio dos [Casos de Uso](casos-de-uso.md).
 
 ### 3.2 Usabilidade
 **Resposta instântanea em troca de mensagens**
