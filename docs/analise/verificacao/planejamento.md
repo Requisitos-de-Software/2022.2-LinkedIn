@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                         | Revisor                                      |
 | ---------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
-| 07/01/2022 | 1.0    | Criação do documento | Samuel | Breno |
+| 07/01/2023 | 1.0    | Criação do documento | Samuel | Breno |
 
 ## 1. Introdução
 
