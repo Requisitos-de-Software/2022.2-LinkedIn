@@ -4,7 +4,7 @@
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
-| 09/01/2022 | 0.1 | Criação do documento | Pedro Caldeira | Samuel |
+| 09/01/2023 | 0.1 | Criação do documento | Pedro Caldeira | Samuel |
 
 ## 1. Introdução
 
