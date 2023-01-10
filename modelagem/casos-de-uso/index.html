@@ -1,0 +1,1924 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../lexicos/">
+      
+      
+        <link rel="next" href="../especificacao-suplementar/">
+      
+      <link rel="icon" href="../../assets/linkedin-logo.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.3">
+    
+    
+      
+        <title>Casos de Uso - LinkedIn</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b71719e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#casos-de-uso" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="LinkedIn" class="md-header__button md-logo" aria-label="LinkedIn" data-md-component="logo">
+      
+  <img src="../../assets/linkedin-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            LinkedIn
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="LinkedIn" class="md-nav__button md-logo" aria-label="LinkedIn" data-md-component="logo">
+      
+  <img src="../../assets/linkedin-logo.png" alt="logo">
+
+    </a>
+    LinkedIn
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Página Inicial
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="false">
+          Planejamento do Projeto
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento do Projeto" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento do Projeto
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma de Atividades
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/analise-app/" class="md-nav__link">
+        Análise dos aplicativos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologias/" class="md-nav__link">
+        Plano de Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas utilizadas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../preRastreabilidade/richPicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2" tabindex="0" aria-expanded="false">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Técnicas" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/entrevistas/" class="md-nav__link">
+        Entrevistas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4_3" type="checkbox" id="__nav_4_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3" tabindex="0" aria-expanded="false">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Priorização" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/moscow/" class="md-nav__link">
+        MoScoW
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/first_things_first/" class="md-nav__link">
+        First Things First
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/resultados/" class="md-nav__link">
+        Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="true">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Casos de Uso
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Casos de Uso
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-passos-para-construcao-do-diagrama" class="md-nav__link">
+    3. Passos para Construção do Diagrama
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-representacao-do-diagrama" class="md-nav__link">
+    4. Representação do Diagrama
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-diagrama-de-casos-de-uso-uml" class="md-nav__link">
+    5. Diagrama de Casos de Uso UML
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-especificacao-de-casos-de-uso" class="md-nav__link">
+    6. Especificação de Casos de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Especificação de Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-caso-de-uso-01-fazer-login" class="md-nav__link">
+    6.1 Caso de Uso 01: Fazer Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-caso-de-uso-02-alterar-perfil-de-usuario" class="md-nav__link">
+    6.2 Caso de Uso 02: Alterar Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-caso-de-uso-03-interagir-com-outros-usuarios" class="md-nav__link">
+    6.3 Caso de Uso 03: Interagir com outros usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#64-caso-de-uso-04-realizar-publicacoes" class="md-nav__link">
+    6.4 Caso de Uso 04: Realizar publicações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#65-caso-de-uso-05-interagir-com-publicacoes-de-outros-usuarios" class="md-nav__link">
+    6.5 Caso de Uso 05: Interagir com publicações de outros usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#66-caso-de-uso-06-visualizar-notificacoes" class="md-nav__link">
+    6.6 Caso de Uso 06: Visualizar notificações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#67-caso-de-uso-07-visualizar-vagas-de-emprego" class="md-nav__link">
+    6.7 Caso de Uso 07: Visualizar vagas de emprego
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#68-caso-de-uso-08-visualizar-noticias-recentes" class="md-nav__link">
+    6.8 Caso de Uso 08: Visualizar notícias recentes
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-referencia-bibliografica" class="md-nav__link">
+    7. Referência bibliográfica
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacao-suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../historias-de-usuario/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../epicos/" class="md-nav__link">
+        Épicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NFR-framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" tabindex="0" aria-expanded="false">
+          Análise de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise de Requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/planejamento.md" class="md-nav__link">
+        Planejamento da Verificação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2" tabindex="0" aria-expanded="false">
+          Verificação - Grupo 5 (Google Maps)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação - Grupo 5 (Google Maps)" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação - Grupo 5 (Google Maps)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+        Preparação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/Observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/Questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/historias-de-usuario/" class="md-nav__link">
+        Histórias de Usuários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/moscow/" class="md-nav__link">
+        MoScoW
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/Backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/NFR_Framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/Especificacao_Suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/casosdeuso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/Brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" tabindex="0" aria-expanded="false">
+          Atas e Reuniões
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas e Reuniões" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Atas e Reuniões
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1" tabindex="0" aria-expanded="false">
+          Novembro
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Novembro" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Novembro
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas_e_reunioes/28-11-Brainstorm/" class="md-nav__link">
+        Dia 28/12 - Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas_e_reunioes/28-11-Entrevista/" class="md-nav__link">
+        Dia 28/12 - Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_2" type="checkbox" id="__nav_7_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_2" tabindex="0" aria-expanded="false">
+          Dezembro
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Dezembro" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Dezembro
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas_e_reunioes/15-12-Modelagem/" class="md-nav__link">
+        Dia 15/12 - Modelagem
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_3" type="checkbox" id="__nav_7_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3" tabindex="0" aria-expanded="false">
+          Janeiro
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Janeiro" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_3">
+          <span class="md-nav__icon md-icon"></span>
+          Janeiro
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas_e_reunioes/02-01-Backlog/" class="md-nav__link">
+        Dia 02/01 - Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-passos-para-construcao-do-diagrama" class="md-nav__link">
+    3. Passos para Construção do Diagrama
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-representacao-do-diagrama" class="md-nav__link">
+    4. Representação do Diagrama
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-diagrama-de-casos-de-uso-uml" class="md-nav__link">
+    5. Diagrama de Casos de Uso UML
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-especificacao-de-casos-de-uso" class="md-nav__link">
+    6. Especificação de Casos de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Especificação de Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-caso-de-uso-01-fazer-login" class="md-nav__link">
+    6.1 Caso de Uso 01: Fazer Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-caso-de-uso-02-alterar-perfil-de-usuario" class="md-nav__link">
+    6.2 Caso de Uso 02: Alterar Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-caso-de-uso-03-interagir-com-outros-usuarios" class="md-nav__link">
+    6.3 Caso de Uso 03: Interagir com outros usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#64-caso-de-uso-04-realizar-publicacoes" class="md-nav__link">
+    6.4 Caso de Uso 04: Realizar publicações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#65-caso-de-uso-05-interagir-com-publicacoes-de-outros-usuarios" class="md-nav__link">
+    6.5 Caso de Uso 05: Interagir com publicações de outros usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#66-caso-de-uso-06-visualizar-notificacoes" class="md-nav__link">
+    6.6 Caso de Uso 06: Visualizar notificações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#67-caso-de-uso-07-visualizar-vagas-de-emprego" class="md-nav__link">
+    6.7 Caso de Uso 07: Visualizar vagas de emprego
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#68-caso-de-uso-08-visualizar-noticias-recentes" class="md-nav__link">
+    6.8 Caso de Uso 08: Visualizar notícias recentes
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-referencia-bibliografica" class="md-nav__link">
+    7. Referência bibliográfica
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="casos-de-uso">Casos de Uso</h1>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor</th>
+<th>Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.1</td>
+<td>02/12/2022</td>
+<td>Criação do Documento</td>
+<td>Letícia Aires</td>
+<td>Mateus Franco</td>
+</tr>
+<tr>
+<td>0.2</td>
+<td>05/12/2022</td>
+<td>Adição de Conteúdo</td>
+<td>Letícia Aires</td>
+<td>Mateus Franco</td>
+</tr>
+<tr>
+<td>0.3</td>
+<td>09/12/2022</td>
+<td>Adição do diagrama UML</td>
+<td>Mateus Franco</td>
+<td>Letícia Aires</td>
+</tr>
+<tr>
+<td>0.4</td>
+<td>10/12/2022</td>
+<td>Adição das especificações de casos de uso</td>
+<td>Mateus Franco</td>
+<td>Letícia Aires</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>Os Casos de Uso consistem no detalhamento dos atores de um sistema e de sua interação com esse, ou seja, por meio do Diagrama de Caso de Uso UML (linguagem de modelagem unificada), são definidos os requisitos, escopo, bem como as interações padrão entre usuário e sistema e, por fim, também é modelado fluxo de acontecimentos.</p>
+<h2 id="2-metodologia">2. Metodologia</h2>
+<p>Para a representação dos casos de uso do aplicativo LinkedIn, foi projetado um diagrama UML, por meio do software Figma, aonde foi representado os diversos cenários de uso na perspectiva dos usuários. </p>
+<p>Dessa forma, sistema e atores foram modelados com o objetivo de descrever atividades para atingir a meta de casos de uso.</p>
+<h2 id="3-passos-para-construcao-do-diagrama">3. Passos para Construção do Diagrama</h2>
+<ol>
+<li>
+<p>Inserção da forma de sistema;</p>
+</li>
+<li>
+<p>Adição de atores;</p>
+</li>
+<li>
+<p>Inserção de casos de uso;</p>
+</li>
+<li>
+<p>Categorização de casos de uso;</p>
+</li>
+<li>
+<p>Criação de relacionamentos entre atores e casos de uso.</p>
+</li>
+</ol>
+<h2 id="4-representacao-do-diagrama">4. Representação do Diagrama</h2>
+<table>
+<thead>
+<tr>
+<th>Símbolos</th>
+<th>Descrição</th>
+<th>Representação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Caso de Uso</td>
+<td>Diferentes funcionalidades que um usuário pode realizar</td>
+<td>Formato oval na horizontal</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Pessoas que realmente implementam os casos de uso</td>
+<td>Bonecos palito</td>
+</tr>
+<tr>
+<td>Associações</td>
+<td>Nos diagramas complexos, é importante saber quais atores estão associados a quais casos de uso.</td>
+<td>Linha entre atores e casos de uso.</td>
+</tr>
+<tr>
+<td>Caixa de limite do sistema</td>
+<td>Caixa que define um escopo do sistema para os casos de uso</td>
+<td>Caixa</td>
+</tr>
+<tr>
+<td>Pacote</td>
+<td>Forma UML onde se colocam diferentes elementos em grupos</td>
+<td>Pastas de arquivos</td>
+</tr>
+</tbody>
+</table>
+<h2 id="5-diagrama-de-casos-de-uso-uml">5. Diagrama de Casos de Uso UML</h2>
+<p>Abaixo, representado pela figura 01, segue a representação do diagrama de casos de uso geral do aplicativo LinkedIn.</p>
+<p><center>
+<img alt="use-case-v2" src="https://user-images.githubusercontent.com/71900095/206858632-edbfbaab-a98e-465b-b392-052a1010b3dc.png" />
+</center></p>
+<h6 align = "center"> Figura 01: Diagrama UML de casos de uso </h6>
+<h6 align = "center"> Fonte: Mateus Franco </h6>
+
+<h2 id="6-especificacao-de-casos-de-uso">6. Especificação de Casos de Uso</h2>
+<p>Abaixo, representado pelas tabelas 01 à 08, segue as especificações para cada caso de uso do diagrama UML de casos de uso.</p>
+<h4 id="61-caso-de-uso-01-fazer-login">6.1 Caso de Uso 01: Fazer Login</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 01</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário, ao iniciar o aplicativo, pode efetuar o login para acessar sua conta no aplicativo</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Ter o aplicativo instalado  <br> - Possuir uma conta criada <br> - Possuir acesso à internet</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>- Usuário abre o aplicativo do LinkedIn <br> - Insere suas credenciais de acesso <br> - Clica em <strong><em>Entrar</em></strong></td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário terá acesso as funcionalidades e ferramentas do aplicativo</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 01: Especificação de casos de uso: Fazer Login </h6>
+
+<h4 id="62-caso-de-uso-02-alterar-perfil-de-usuario">6.2 Caso de Uso 02: Alterar Perfil de Usuário</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 02</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar alterações de informações em seu perfil próprio</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em seu nome de perfil localizado na parte superior do aplicativo <br> 2. O usuário clica na área aonde deseja alterar as informações <br>  3. O usuário realiza as alterações <br> 4. O usuário clica em <strong><em>salvar alterações</em></strong></td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário poderá ver suas informações alteradas</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 02: Especificação de casos de uso: Alterar perfil de usuário </h6>
+
+<h4 id="63-caso-de-uso-03-interagir-com-outros-usuarios">6.3 Caso de Uso 03: Interagir com outros usuários</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 03</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar interações com outros usuários cadastrados</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <strong><em>Minha Rede</em></strong> <br> 2. O usuário clica em <strong><em>Conexões</em></strong> <br> 3. O usuário seleciona a forma de interação que deseja</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário terá suas interações com outros usuários realizadas com sucesso</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 03: Especificação de casos de uso: Interagir com outros usuários </h6>
+
+<h4 id="64-caso-de-uso-04-realizar-publicacoes">6.4 Caso de Uso 04: Realizar publicações</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 04</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar publicações em seu perfil</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <strong><em>Começar publicação</em></strong> <br> 2. O usuário realiza a publicação da forma que deseja <br> 3. O usuário salva as informações da publicação</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário terá sua publicação realizada com sucesso</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 04: Especificação de casos de uso: Realizar publicações </h6>
+
+<h4 id="65-caso-de-uso-05-interagir-com-publicacoes-de-outros-usuarios">6.5 Caso de Uso 05: Interagir com publicações de outros usuários</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 05</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar interações com publicações de outros usuários</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <strong><em>Inicio</em></strong> para visualizar as publicações de outros usuários <br> 2. O usuário clica na interação que deseja: <em>Adicionar reação, comentar, compartilhar ou enviar</em></td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário terá suas interações com publicações de outros usuários realizadas com sucesso</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 05: Especificação de casos de uso: Interagir com publicações de outros usuários </h6>
+
+<h4 id="66-caso-de-uso-06-visualizar-notificacoes">6.6 Caso de Uso 06: Visualizar notificações</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 06</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de visualizar suas notificações mais recentes</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <strong><em>Notificações</em></strong> <br></td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário poderá visualizar todas as notificações das mais recentes para as mais antigas</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 06: Especificação de casos de uso: Visualizar notificações </h6>
+
+<h4 id="67-caso-de-uso-07-visualizar-vagas-de-emprego">6.7 Caso de Uso 07: Visualizar vagas de emprego</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 07</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de visualizar diversas vagas de emprego</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <strong><em>Vagas</em></strong> <br>  2. O usuário poderá realizar filtros de pesquisa para o tipo de vaga que deseja</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário poderá visualizar todas as vagas de emprego de acordo com os filtros aplicados</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 07: Especificação de casos de uso: Visualizar vagas de emprego </h6>
+
+<h4 id="68-caso-de-uso-08-visualizar-noticias-recentes">6.8 Caso de Uso 08: Visualizar notícias recentes</h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso 08</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de visualizar as principais notícias com base na indicação para seu perfil</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>Estar logado no aplicativo</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Usuários cadastrados na plataforma</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <strong><em>Início</em></strong> <br>  2. No canto superior esquerda, o usuário poderá expandir entrando em <strong><em>LinkedIN notícias</em></strong></td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário poderá visualizar todas as notícias recentes baseadas em seu perfil</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 08: Especificação de casos de uso: Visualizar notícias recentes </h6>
+
+<h2 id="7-referencia-bibliografica">7. Referência bibliográfica</h2>
+<blockquote>
+<ul>
+<li>Diagrama de caso de uso UML: o que é, como fazer e exemplos. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml</li>
+</ul>
+</blockquote>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ba449ae6.min.js"></script>
+      
+    
+  </body>
+</html>
