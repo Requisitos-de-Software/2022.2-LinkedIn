@@ -48,3 +48,13 @@
 <br> Fonte: Autores </h6>
 
 > Disponibilizado dia 05 de Janeiro de 2022
+
+## Apresentação 5 - Verificação de Requisitos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQ-5nSEGACk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+
+<h6 align = "center"> Vídeo 5: Entrega da Apresentação do Projeto Etapa 5. 
+<br> Fonte: Autores </h6>
+
+> Disponibilizado dia 10 de Janeiro de 2022

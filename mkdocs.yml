@@ -33,23 +33,26 @@ nav:
     - Léxicos: ./modelagem/lexicos.md
     - Casos de Uso: ./modelagem/casos-de-uso.md
     - Especificação Suplementar: ./modelagem/especificacao-suplementar.md
+    - Histórias de Usuário: ./modelagem/historias-de-usuario.md
     - Épicos: ./modelagem/epicos.md
-    - Ágil: 
-      - Backlog: ./modelagem/backlog.md
-      - Histórias de Usuário: ./modelagem/historias-de-usuario.md
-      - NFR Framework: ./modelagem/NFR-framework.md
+    - NFR Framework: ./modelagem/NFR-framework.md
+    - Backlog: ./modelagem/backlog.md
   - Análise de Requisitos:
     - Planejamento da Verificação: ./analise/planejamento.md
     - Verificação - Grupo 5 (Google Maps):
+      - Preparação: ./analise/verificacao/planejamento.md
+      - Observação: ./analise/verificacao/Observacao.md
+      - Questionário: ./analise/verificacao/Questionario.md
       - Personas: ./analise/verificacao/personas.md
       - Rich Picture: ./analise/verificacao/richpicture.md
       - Histórias de Usuários: ./analise/verificacao/historias-de-usuario.md
       - MoScoW: ./analise/verificacao/moscow.md
       - Cenários: ./analise/verificacao/cenarios.md
+      - Backlog: ./analise/verificacao/Backlog.md
       - NFR Framework: ./analise/verificacao/NFR_Framework.md
       - Especificação Suplementar: ./analise/verificacao/Especificacao_Suplementar.md
       - Casos de Uso: ./analise/verificacao/casosdeuso.md
-      - Preparação: ./analise/verificacao/planejamento.md
+      - Brainstorm: ./analise/verificacao/Brainstorm.md 
   - Atas e Reuniões:
     - Novembro:
       - Dia 28/12 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md

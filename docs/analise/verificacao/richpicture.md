@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
-| 09/01/2022 | 0.1 | Criação do documento | Breno | Guilherme |
+| 09/01/2023 | 0.1 | Criação do documento | Breno | Guilherme |
 
 ## 1. Introdução
 
@@ -76,7 +76,7 @@
 
 <center>
 
-![Grafico](../assets/../../assets/vericicacao/grafico-personas.png)
+![Grafico](../assets/../../assets/verificacao/grafico-personas.png)
 
 </center>
 

@@ -1,87 +1,51 @@
-# Verificação - Cenários
+## Histórico de Versões
 
-## Histórico de versões
-| Data | Versão | Descrição | Autor | Revisor |
-| :---: | :---: | :---: | :---: | :---: |
-| 07/01/2022 | 0.1 | Criação do documento | Samuel Macedo | Mateus Franco |
+**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
+:---: | :---: | :---: | :---: | :---: |
+08/01/2023 | 0.1 | Inspeção do Questionário | Guilherme Barbosa e Samuel Castro | Letícia |
 
 ## 1. Introdução
 
-Para verificar o artefato de **Questionário** do projeto do Grupo 5 - [Google Maps](https://requisitos-de-software.github.io/2022.2-GoogleMaps/), usaremos a estratégia de "inspeções", seguindo o planejamento detalhado na página de [Planejamento da verificação](../planejamento.md)
+&emsp;&emsp;Para verificar o Artefato Questionário do [Grupo 05 - Google Maps](https://requisitos-de-software.github.io/2022.2-GoogleMaps/elicitacao/5.questionario/), utilizaremos a estratégia de inspeções mencionada no [Planejamento](../planejamento.md).
 
 ## 2. Preparação
 
-Para fazer a inspeção vamos utilizar um "checklist" com algumas perguntas com base nas referências utilizadas para a elaboração do artefato e os critérios de avaliação do artefato adotados na disciplina, dessa forma, poderemos analisar se este está correto com base nessas perguntas. Quando o critério for atendido, terá um "check" confirmando e quando não estiver , terá um "X" dizendo que não está correto. Conforme a legenda abaixo:
+&emsp;&emsp;Para fazer a inspeção vamos utilizar um "checklist" com algumas perguntas com base nas referências utilizadas para a elaboração do artefato e os critérios de avaliação do artefato adotados na disciplina, dessa forma, poderemos analisar se este está correto com base nessas perguntas. Quando o critério for atentido, terá um "check" confirmando e quando não estiver , terá um "X" dizendo que não está correto. Conforme a legenda abaixo:
 
 - ✅ : Atendido
 - ❌ : Não Atendido
 
-A checklist definida pode ser encontrada abaixo:
+## 3. Inspeção do Questionário
 
 <center>
 
-| ID | Questão |
-| :---: | --- |
-| 1 | Possui versionamento? |
-| 2 | O artefato possui introdução? |
-| 3 | O artefato possui uma explicação da metodologia utilizada? |
-| 4 | possui uma preparação para aplicação do questionário? |
-| 5 | O questionário possui um código de ética?   |
-| 6 | O objetivo do questionário é claro? |
-| 7 | Possui os resultados do questionário? |
-| 8 | Os resultados são apresentados de uma maneira clara? |
-| 9 | Possui as referências utilizadas? |
+|ID|Questão| Inspeção |
+|-----------|-------------|:-------------:|
+| 1 | O documento possui versionamento com versão, data, autor e revisor?| ✅ |
+| 2 | O Artefato contem o objetivo do uso da técnica? | ✅ |
+| 3 | O Artefato apresenta a metodologia? | ❌ |
+| 4 | O Artefato está bem estruturado? | ✅ |
+| 5 | Apresenta os resultados do questionário? | ✅ |
+| 6 | As tabelas e figuras possuem autores e descrição? | ✅ |
+| 7 | Conseguiu elicitar algum requisito com a técnica? | ✅ |
+| 8 | Os requisitos tem ID, Tipo e Descrição? | ✅ |
 
 </center>
 
-<figcaption align='center'>
-    <b>Tabela 1: Preparação checklist - Questionário </b>
-    <br><small> Fonte: Elaboração própria</small>
-</figcaption>
+## 3.1 Resultados da Inspeção
+&emsp;&emsp;A partir da inspeção do artefato verificamos que o documento atende com 7 dos 8 critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 87.5% como podemos ver a partir do gráfico abaixo:
 
+<figure markdown>
+![Grafico](../../assets/verificacao/questionario_grupo05_verificacao.png)
 
-## 3. Inspeção Cenários
-
-A checklist após inspeção do artefato de **Questionário** pode ser encontrada abaixo:
-
-<center>
-
-|| ID | Questão |Inspenção|
-| :---: | --- |---|
-| 1 | Possui versionamento? |✅|
-| 2 | O artefato possui introdução? |✅|
-| 3 | O artefato possui uma explicação da metodologia utilizada? |✅|
-| 4 | possui uma preparação para aplicação do questionário? |✅|
-| 5 | O questionário possui um código de ética?   |❌|
-| 6 | O objetivo do questionário é claro? |✅|
-| 7 | Possui os resultados do questionário? |✅|
-| 8 | Os resultados são apresentados de uma maneira clara? |✅|
-| 9 | Possui as referências utilizadas? |✅ |
-
-
-</center>
-
-<figcaption align='center'>
-    <b>Tabela 2: Checklist da inspeção - Questionário </b>
-</figcaption>
-
-### 3.1 Resultados da inspeção
- A partir da inspeção do artefato verificamos que o documento atende com 8 dos critérios de avaliação definidos, dessa forma apresentando uma taxa e acertos de 89% como podemos ver a partir do gráfico abaixo:
-
-<center>
-
-<img src="https://user-images.githubusercontent.com/71900095/211370350-302e6fe1-7f9f-4740-b13d-a599f5f165c4.png">
-
-</center>
-
-<figcaption align='center'>
-    <b>Figura 1: Gráfico - Questionário  </b>
+<figcaption>
+    <b>Figura 1: Gráfico da inspeção do Questionário</b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
+</figure>
 
-
-
+&emsp;&emsp; A partir da inspeção do artefato verificamos que o documento não atende todos os critérios, necessitando de pequenas alterações, adaptando o contéudo escrito a um tópico específico de metodologia.
 
 ## Referências
 
-> * SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de IHC no curso de Engenharia de Software da UnB, FGA.
