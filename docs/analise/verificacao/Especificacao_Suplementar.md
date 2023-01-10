@@ -1,10 +1,10 @@
-# Verificação do NFR Framework
+# Verificação do Especificação Suplementar 
 
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
-| 09/01/2022 | 0.1 | Criação do documento | Pedro Caldeira | Samuel |
+| 09/01/2023 | 0.1 | Criação do documento | Pedro Caldeira | Samuel |
 
 ## 1. Introdução
 
@@ -25,20 +25,18 @@
 | :---: | --- | :---: |
 | 1 | O documento possui padronização?  |  |
 | 2 | O documento aborda sobre a estética e  o design na Usabilidade?   |  |
-| 3 | o artefato versa sobre a facilidade de aprendizagem?  |  |
+| 3 | o artefato fala sobre a facilidade de aprendizagem?  |  |
 | 4 | O documento é orientado pelo padrão FURPS? |  |
-| 5 | O documento possui Linkagem e  versionamento?  |  |
-|6  | O documento fala  sobre a eficiência na usabilidade? | |
-|7  | O documento fala sobre a Satisfação na Usabilidade? ||
-|8  | O documento fala sobre a disponibilidade na Confiabilidade?| |
-|9  | O documento fala sobre sobre a Segurança a falhas na Confiabilidade ? | |
-|10 | O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade? ||
-|11 | O documento aborda e especifíca a maturidade na Confiabilidade?| |
-|12 | O documento fala sobre a  rapidez na resposta no Desempenho? | |
-|13 | O documento fala sobre o Armazenamento no Desempenho? | |
-|14 | O documento fala sobre a compatibilidade na Suportabilidade ? | |
-|15 |  O documento fala sobre o termo de uso nos requisitos de licenciamento?|  |
-|16 |  O documento fala sobre o termos de privacidade no requisito de licenciamento? |  |
+| 5 | O documento possui Linkagem e  versionamento?  ||
+| 6 | O documento fala sobre a Satisfação na Usabilidade?|  |
+| 7 | O documento fala sobre a disponibilidade na Confiabilidade?|  |
+| 8 | O documento fala sobre sobre a Segurança a falhas na Confiabilidade ? | |
+| 9 | O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade? ||
+| 10 | O documento aborda e especifíca a maturidade na Confiabilidade?|  |
+| 11 | O documento fala sobre a  rapidez na resposta no Desempenho? ||
+| 12 | O documento fala sobre a compatibilidade na Suportabilidade ? |  |
+| 13 |  O documento fala sobre o termo de uso nos requisitos de licenciamento?|  |
+| 14 |  O documento fala sobre o termos de privacidade no requisito de licenciamento? |  |
 
 </center>
 
@@ -47,7 +45,7 @@
     <br><small> Fonte: Elaboração Propria</small>
 </figcaption>
 
-## 3. Inspeção NFR Framework
+## 3. Inspeção Especificação Suplementar 
 
 &emsp;&emsp;A checklist após inspeção das **Especificação Suplementar** pode ser encontrada abaixo:
 
