@@ -33,17 +33,31 @@ nav:
     - Léxicos: ./modelagem/lexicos.md
     - Casos de Uso: ./modelagem/casos-de-uso.md
     - Especificação Suplementar: ./modelagem/especificacao-suplementar.md
-    - Histórias de Usuário: ./modelagem/historias-de-usuario.md
     - Épicos: ./modelagem/epicos.md
-    - NFR Framework: ./modelagem/NFR-framework.md
-    - Backlog: ./modelagem/backlog.md
+    - Ágil: 
+      - Backlog: ./modelagem/backlog.md
+      - Histórias de Usuário: ./modelagem/historias-de-usuario.md
+      - NFR Framework: ./modelagem/NFR-framework.md
+  - Análise de Requisitos:
+    - Planejamento da Verificação: ./analise/planejamento.md
+    - Verificação - Grupo 5 (Google Maps):
+      - Personas: ./analise/verificacao/personas.md
+      - Rich Picture: ./analise/verificacao/richpicture.md
+      - Histórias de Usuários: ./analise/verificacao/historias-de-usuario.md
+      - MoScoW: ./analise/verificacao/moscow.md
+      - Cenários: ./analise/verificacao/cenarios.md
+      - NFR Framework: ./analise/verificacao/NFR_Framework.md
+      - Especificação Suplementar: ./analise/verificacao/Especificacao_Suplementar.md
+      - Casos de Uso: ./analise/verificacao/casosdeuso.md
+      - Preparação: ./analise/verificacao/planejamento.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28/12 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md
       - Dia 28/12 - Entrevista: ./atas_e_reunioes/28-11-Entrevista.md
-
     - Dezembro:
       - Dia 15/12 - Modelagem: ./atas_e_reunioes/15-12-Modelagem.md
+    - Janeiro:
+      - Dia 02/01 - Backlog: ./atas_e_reunioes/02-01-Backlog.md
   - Apresentações: ./apresentacoes/apresentacoes.md
 markdown_extensions:
 - attr_list

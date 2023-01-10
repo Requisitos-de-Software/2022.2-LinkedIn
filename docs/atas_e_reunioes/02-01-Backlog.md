@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                         | Revisor                                      |
 | ---------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
-| 28/11/2022 | 1.0    | Criação do documento | Samuel | Pedro Caldeira |
+| 03/01/2023 | 1.0    | Criação do documento | Samuel | Pedro Caldeira |
 
 Reunião realizada remotamente
 
