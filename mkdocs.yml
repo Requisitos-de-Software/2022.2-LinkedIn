@@ -48,6 +48,10 @@ nav:
       - MoScoW: ./analise/verificacao/moscow.md
       - Cenários: ./analise/verificacao/cenarios.md
       - Backlog: ./analise/verificacao/Backlog.md
+      - NFR Framework: ./analise/verificacao/NFR_Framework.md
+      - Especificação Suplementar: ./analise/verificacao/Especificacao_Suplementar.md
+      - Casos de Uso: ./analise/verificacao/casosdeuso.md
+      - Preparação: ./analise/verificacao/planejamento.md
   - Atas e Reuniões:
     - Novembro:
       - Dia 28/12 - Brainstorm: ./atas_e_reunioes/28-11-Brainstorm.md

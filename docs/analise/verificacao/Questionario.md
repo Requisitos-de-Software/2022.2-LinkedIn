@@ -2,7 +2,7 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 :---: | :---: | :---: | :---: | :---: |
-08/01/2023 | 0.1 | Inspeção do Questionário | Guilherme Barbosa | Letícia |
+08/01/2023 | 0.1 | Inspeção do Questionário | Guilherme Barbosa e Samuel Castro | Letícia |
 
 ## 1. Introdução
 
