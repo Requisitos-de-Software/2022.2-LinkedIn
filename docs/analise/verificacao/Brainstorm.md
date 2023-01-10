@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                         | Revisor                                      |
 | ---------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
-| 07/01/2022 | 1.0    | Criação do documento | Letícia | Breno |
+| 07/01/2023 | 1.0    | Criação do documento | Letícia | Breno |
 ## 1. Introdução
 
 O objetivo do presente documento é apresentar a verificação do [Brainstorm](../../elicitacao/brainstorm.md)  desenvolvido no nosso projeto e analisado por meio da técnica de inspeção, seguindo o planejamento detalhado na página de [Planejamento da verificação](../planejamento.md)
